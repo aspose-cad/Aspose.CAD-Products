@@ -83,6 +83,8 @@ System.Diagnostics.Process.Start(output);
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
  
 
+<!-- aboutfile Starts -->
+
 {{< blocks/products/pf/agp/about-file-section >}}
 
     {{< blocks/products/pf/agp/demobox sectionTitle="Free App to View DWF" sectionDescription="Check our live demos to [View DWF](https://products.aspose.app/cad/viewer/dwf) with following benefits." >}}
@@ -98,6 +100,9 @@ Design Web Format (DWF) represents 2D/3D drawing in compressed format for viewin
     {{< /blocks/products/pf/agp/about-file-text >}}
 
 {{< /blocks/products/pf/agp/about-file-section >}}
+
+<!-- aboutfile Ends -->
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}

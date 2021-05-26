@@ -17,7 +17,182 @@ url: /java/
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
 
-{{< blocks/products/pf/carousel-item h3="" description="" >}}
+{{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the main conversion and rendering capabilities of API." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-copy">
+    </i>
+    PDF &amp; Raster Rendering
+   </header>
+   <ul>
+    <li>
+     Complete Drawing
+    </li>
+    <li>
+     Specific Layout
+    </li>
+    <li>
+     Customize Conversion
+    </li>
+    <li>
+     Track Conversion Process
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java AutoCAD API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <header>
+   Aspose.CAD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD for Java supports the JDK 1.6 and above." >}}
+<div class="diagram1 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header style="padding-left: 0px;">
+    <i class="fa fa-cogs">
+    </i>
+    Java Platform
+   </header>
+   <ul>
+    <li>
+     J2SE 6.0 (1.6)
+    </li>
+    <li>
+     J2SE 7.0 (1.7)
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="AutoCAD Java Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <header>
+   Aspose.CAD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/java/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-java">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     DWG Release 11, 12, 13, 14
+    </li>
+    <li>
+     DWG 2000/2000i/2002
+    </li>
+    <li>
+     DWG 2004/2005/2006
+    </li>
+    <li>
+     DWG 2010/2011/2012
+    </li>
+    <li>
+     DWG 2013/2014/2015/2016
+    </li>
+    <li>
+     AutoCAD DXF
+    </li>
+    <li>
+     Autodesk DWF
+    </li>
+    <li>
+     DGN
+    </li>
+    <li>
+     Industry Foundation Classes (IFC)
+    </li>
+    <li>
+     STereoLithography (STL)
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Raster Images:
+     </b>
+     PNG, BMP, TIFF, JPEG, GIF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="Java CAD Processing APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <header>
+   Aspose.CAD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    Java
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}

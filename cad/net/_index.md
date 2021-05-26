@@ -18,9 +18,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the main conversion and rendering capabilities of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="CAD API supports the .NET Core and .NET framework including ASP.NET and Windows Application." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -69,7 +66,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.CAD for .NET supported file formats are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="CAD API supports the .NET Core and .NET framework including ASP.NET and Windows Application." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -101,6 +98,92 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="AutoCAD .NET API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png"/>
+  <header>
+   Aspose.CAD
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.CAD for .NET [supported file formats](https://docs.aspose.com/cad/net/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     DWG Release 11, 12, 13, 14
+    </li>
+    <li>
+     DWG 2000/2000i/2002
+    </li>
+    <li>
+     DWG 2004/2005/2006
+    </li>
+    <li>
+     DWG 2010/2011/2012
+    </li>
+    <li>
+     DWG 2013/2014/2015/2016
+    </li>
+    <li>
+     AutoCAD DXF
+    </li>
+    <li>
+     Autodesk DWF
+    </li>
+    <li>
+     DGN
+    </li>
+    <li>
+     Industry Foundation Classes (IFC)
+    </li>
+    <li>
+     STereoLithography (STL)
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     <b>
+      Fixed Layout:
+     </b>
+     PDF
+    </li>
+    <li>
+     <b>
+      Raster Images:
+     </b>
+     PNG, BMP, TIFF, JPEG, GIF
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt="AutoCAD APIs C#" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png"/>
   <header>
    Aspose.CAD
   </header>
