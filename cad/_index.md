@@ -56,10 +56,18 @@ Don’t have AutoCAD installed? No problem. View your AutoCAD drawings from anyw
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.CAD." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose.CAD." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
+<p class="first">
+ Aspose.CAD also allowed us to create the PDFs with a black background for viewing, which Engineering users are more comfortable with.
+ <em>
+  Igor Klafke | W3K Tecnologia
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

@@ -5,13 +5,17 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-java.png" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-java.png" pfName="Aspose.CAD for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="" docsLink="https://docs.aspose.com/cad/java/" instalationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.CAD for Java is an advanced AutoCAD conversion native API without any software dependencies. It allows developers the conversion of DWF, DWG and DXF files to raster image formats and PDF. During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -298,12 +302,6 @@ image.save(dir + "output.pdf", pdfOptions);
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -329,9 +327,9 @@ image.save(dir + "output.pdf", pdfOptions);
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" sdkName="Aspose.CAD for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

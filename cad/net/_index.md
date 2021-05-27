@@ -5,13 +5,17 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-net.png" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-net.png" pfName="Aspose.CAD for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cad/net/" instalationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" >}}
 
 {{< blocks/products/pf/tab-content >}}
+<p>
+ Aspose.CAD for .NET is a standalone AutoCAD processing API. It provides the functionality to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from the AutoCAD files as well as track the whole file conversion process with ease.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -306,12 +310,6 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -337,9 +335,9 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" sdkName="Aspose.CAD for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
