@@ -2,6 +2,7 @@
 title: Java AutoCAD API | Process and Convert AutoCAD Files 
 weight: 650
 url: /java/ 
+description: AutoCAD library to open and convert DWG and DXF drawing files to PDF PNG GIF BMP JPEG and TIFF image formats within java applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
