@@ -1,6 +1,6 @@
 ---
 title: Convert DGN to TIFF via Java 
-weight: 90
+weight: 1300
 url: /java/conversion/dgn-to-tiff/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert DGN to TIFF Using Java" %}}
 
- In order to render DGN to TIFF, weвЂ™ll use
+ In order to render DGN to TIFF, we’ll use
  [Aspose.CAD for Java](https://products.aspose.com/cad/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert DGN to TIFF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert DGN to TIFF - Java‎" offSpacer="" %}}
 
 ```cs
 // load DGN in an instance of Image via its Load method
@@ -115,7 +115,7 @@ image.save("output.tiff", options);
 
     {{% blocks/products/pf/agp/content h2="Java CAD Document Manipulation Library" %}}
 
- Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. вЂЋ
+ Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. ‎
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Convert PLT to DXF via Java 
-weight: 520
+weight: 280
 url: /java/conversion/plt-to-dxf/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert PLT to DXF Using Java" %}}
 
- In order to render PLT to DXF, weвЂ™ll use
+ In order to render PLT to DXF, we’ll use
  [Aspose.CAD for Java](https://products.aspose.com/cad/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert PLT to DXF - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert PLT to DXF - Java‎" offSpacer="" %}}
 
 ```cs
 // load PLT in an instance of Image via its Load method
@@ -115,7 +115,7 @@ image.save("output.dxf", options);
 
     {{% blocks/products/pf/agp/content h2="Java CAD Document Manipulation Library" %}}
 
- Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. вЂЋ
+ Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. ‎
 
 
 

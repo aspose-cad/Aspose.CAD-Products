@@ -1,6 +1,6 @@
 ---
 title: View DGN File Formats via .NET 
-weight: 1290
+weight: 1090
 url: /net/viewer/dgn/ 
 description: Try our On-Premise APIs to load, render and display DGN documents on .NET Framework, .NET Core.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs to load, render and display DGN documents o
 
 {{% blocks/products/pf/agp/content h2="How to View DGN File Using C#" %}}
 
- In order to view DGN file, weвЂ™ll use
+ In order to view DGN file, we’ll use
  [Aspose.CAD for .NET](https://products.aspose.com/cad/net) 
  API which is a feature-rich, powerful and easy to use API for C# platform to be used with any Viewer. Open
  [NuGet](https://www.nuget.org/packages/aspose.cad) 
@@ -104,7 +104,7 @@ System.Diagnostics.Process.Start(output);
 
     {{% blocks/products/pf/agp/content h2="About Aspose.CAD for .NET API" %}}
 
- Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. вЂЋ
+ Aspose.CAD is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. ‎
 
 
 
