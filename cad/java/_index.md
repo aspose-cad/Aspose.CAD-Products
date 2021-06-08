@@ -6,11 +6,11 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-java.png" pfName="Aspose.CAD for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-java.png" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="" docsLink="https://docs.aspose.com/cad/java/" instalationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/pricing/cad/java" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad" directDownloadLink="https://downloads.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

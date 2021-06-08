@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-net.png" pfName="Aspose.CAD for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-net.png" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/cad/net/" instalationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/pricing/cad/net" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
