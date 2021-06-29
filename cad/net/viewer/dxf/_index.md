@@ -127,6 +127,16 @@ DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data re
 
 <!-- aboutfile Ends -->
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported Viewer Formats" subTitle="Using C#, One can also view many other file formats including." >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/viewer/dgn" name="DGN" description="Drawing file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/viewer/dwf" name="DWF" description="Design Web Format DWF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/viewer/dwg" name="DWG" description="Proprietary binary files" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/viewer/ifc" name="IFC" description="Industry Foundation Classes IFC file format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/viewer/stl" name="STL" description="Interchangeable 3D Surface Geometry" >}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
+
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
