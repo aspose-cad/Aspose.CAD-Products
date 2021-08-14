@@ -10,7 +10,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/pricing/cad/java" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad" directDownloadLink="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/pricing/cad/java" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad" directDownloadLink="https://downloads.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -53,7 +53,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java AutoCAD API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <img alt="Java AutoCAD API" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -96,7 +96,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD Java Library" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <img alt="AutoCAD Java Library" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -182,7 +182,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java CAD Processing APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png"/>
+  <img alt="Java CAD Processing APIs" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -330,7 +330,7 @@ image.save(dir + "output.pdf", pdfOptions);
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" sdkName=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

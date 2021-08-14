@@ -11,11 +11,11 @@ description: Build applications to process & convert AutoCAD drawings via On Pre
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" productLink="https://products.aspose.com/cad/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="https://products.aspose.com/cad/net" >}}
 Convert AutoCAD drawings to PDF and raster image formats without any dependency on AutoCAD software. Choose and convert specific layer and layouts.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" productLink="https://products.aspose.com/cad/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productLink="https://products.aspose.com/cad/java" >}}
 AutoCAD drawings conversion API to work with any Java SE or EE based application. Select specific layers or layouts to convert to PDF or raster image formats.
 {{< /blocks/products/pf/product >}}
 

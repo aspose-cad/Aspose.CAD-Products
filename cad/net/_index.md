@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/pricing/cad/net" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/pricing/cad/net" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -53,7 +53,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET CAD API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png"/>
+  <img alt=".NET CAD API" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -102,7 +102,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD .NET API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png"/>
+  <img alt="AutoCAD .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -188,7 +188,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD APIs C#" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png"/>
+  <img alt="AutoCAD APIs C#" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -338,7 +338,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" sdkName="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

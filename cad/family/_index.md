@@ -6,16 +6,16 @@ description: Export DWG and DXF AutoCAD files to PDF & images from within .NET a
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="AutoCAD File Conversion APIs" h2="Native .NET & Java APIs to convert AutoCAD DWG & DXF drawings to PDF & raster images." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="AutoCAD File Conversion APIs" h2="Native .NET & Java APIs to convert AutoCAD DWG & DXF drawings to PDF & raster images." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad.svg" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" productLink="/cad/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
 Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" productLink="/cad/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productLink="/cad/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
