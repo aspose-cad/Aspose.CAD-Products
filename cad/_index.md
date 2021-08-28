@@ -6,7 +6,7 @@ description: Build applications to process & convert AutoCAD drawings via On Pre
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="AutoCAD File Format Solution" h2="Process & convert CAD drawings to PDF, JPG, PNG & many more shareable file formats." logoImageSrc="https://www.aspose.com/templates/brand/images/cad/aspose_cad-brand.png" imageAlt="Aspose.CAD Product Family" >}}
+{{< blocks/products/pf/upper-banner h1="AutoCAD File Format Solution" h2="Process & convert CAD drawings to PDF, JPG, PNG & many more shareable file formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-brand.svg" imageAlt="Aspose.CAD Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise APIs Include" >}}
