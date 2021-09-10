@@ -6,7 +6,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-java.png" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF and Raster Images without any CAD software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 

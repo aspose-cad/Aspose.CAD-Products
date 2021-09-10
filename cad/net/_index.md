@@ -6,7 +6,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad-for-net.png" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
