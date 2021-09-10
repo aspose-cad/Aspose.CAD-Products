@@ -10,7 +10,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/pricing/cad/net" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
