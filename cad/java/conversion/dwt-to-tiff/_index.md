@@ -148,12 +148,12 @@ TIFF or TIF, Tagged Image File Format, represents raster images that are meant f
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DWT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-bmp" name="DWT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-dxf" name="DWT TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-gif" name="DWT TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-jpeg" name="DWT TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-pdf" name="DWT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-png" name="DWT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-bmp/" name="DWT TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-dxf/" name="DWT TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-gif/" name="DWT TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-jpeg/" name="DWT TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-pdf/" name="DWT TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwt-to-png/" name="DWT TO PNG" description="Portable Network Graphics" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

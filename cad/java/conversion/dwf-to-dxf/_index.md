@@ -148,12 +148,12 @@ DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data re
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DWF into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-bmp" name="DWF TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-gif" name="DWF TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-jpeg" name="DWF TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-pdf" name="DWF TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-png" name="DWF TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-tiff" name="DWF TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-bmp/" name="DWF TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-gif/" name="DWF TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-jpeg/" name="DWF TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-pdf/" name="DWF TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-png/" name="DWF TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/dwf-to-tiff/" name="DWF TO TIFF" description="Tagged Image Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 

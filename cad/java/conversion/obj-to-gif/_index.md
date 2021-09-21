@@ -148,12 +148,12 @@ A GIF or Graphical Interchange Format is a type of highly compressed image. Owne
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert OBJ into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-bmp" name="OBJ TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-dxf" name="OBJ TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-jpeg" name="OBJ TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-pdf" name="OBJ TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-png" name="OBJ TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-tiff" name="OBJ TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-bmp/" name="OBJ TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-dxf/" name="OBJ TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-jpeg/" name="OBJ TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-pdf/" name="OBJ TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-png/" name="OBJ TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/java/conversion/obj-to-tiff/" name="OBJ TO TIFF" description="Tagged Image Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
