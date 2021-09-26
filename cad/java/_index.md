@@ -330,7 +330,9 @@ image.save(dir + "output.pdf", pdfOptions);
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+
+{{< blocks/products/pf/offers-section-item link="/cad/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" sdkName="JasperReports" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

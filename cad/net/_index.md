@@ -1,12 +1,12 @@
 ---
-title: C# .NET AutoCAD Processing API - Aspose 
+title: C# .NET APIs to Convert CAD Files - Aspose 
 weight: 330
 url: /net/ 
-description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawing documents to PDF PNG GIF BMP JPEG and TIFF formats
+description: Process and Convert CAD and BIM format files to PDF, WebP and other Vector and Raster Images without any software dependencies.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET APIs to Convert AutoCAD Files" h2="Convert DWG and DXF files to PDF and Raster Images without any AutoCAD software." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET APIs to Process and Convert CAD Format Files" h2="Convert DWG, DXF, STL, CF2, DWF, IGES, DGN, STL, FBX, OBJ, other CAD and BIM files to PDF, WebP, SVG and other Vector and Raster Images without any software dependencies." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
@@ -14,7 +14,7 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.CAD for .NET is a standalone AutoCAD processing API. It provides the functionality to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from the AutoCAD files as well as track the whole file conversion process with ease.
+ Aspose.CAD for .NET is a standalone CAD and BIM files processing API suitable for .Net Core, Xamarin for Android and iOS. It provides the functionality to convert DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, SVG files to high-quality PDF and other vector and raster image files such as: BMP, GIF, JPG, JPEG, JP2, PNG, TIFF, PSD, DICOM, WEBP, WMF, EMF. Developers can select and convert specific layouts and layers from the AutoCAD files as well as track the whole file conversion process with ease. Aspose.CAD for .NET API is multi-thread safe and ready for bulk parallel processing with cancellation support.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -26,27 +26,29 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-star">
+    </i>
+    Intuitive modern style API
+   </header>
+   <ul>
+    <li>Track Conversion Process</li>
+	<li>Cancellation Support</li>
+	<li>Multi-thread Environment Ready</li>
+   </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header>
     <i class="fa fa-copy">
     </i>
-    PDF &amp; Raster Rendering
+    Customized Rendering
    </header>
    <ul>
-    <li>
-     Complete Drawing
-    </li>
-    <li>
-     Specific Layout
-    </li>
-    <li>
-     Customize Conversion
-    </li>
-    <li>
-     Track Conversion Process
-    </li>
+    <li>Complete Drawing</li>
+    <li>Specific Layout</li>
+	<li>Selected Layers</li>
+    <li>Adjustable export options</li>    
    </ul>
   </div>
   <!--/right-->
@@ -54,66 +56,48 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
  <!--/row-->
  <div class="d1-logo">
   <img alt=".NET CAD API" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
-  <header>
-   Aspose.CAD
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
+  <header>Aspose.CAD</header>
+  <footer><small><em>for</em>.NET</small></footer>
  </div>
  <!--/logo-->
 </div>
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="CAD API supports the .NET Core and .NET framework including ASP.NET and Windows Application." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="CAD API supports the .NET Core and .NET framework, Xamarin, Mono and suitable for ASP.NET, WPF, Unity and Windows Forms frameworks" >}}
+
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
+    <header><i class="fa fa-cubes"></i>.Net Core</header>
+    <br/>
+    <header><i class="fa fa-cubes"></i>.NET Framework</header>
+    <br/>
+    <header><i class="fa fa-cubes"></i>Xamarin</header>
+    <br/>
+    <header><i class="fa fa-cubes"></i>Mono</header>
+	<br/>
+    <header><i class="fa fa-cubes"></i>UWP</header>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-cubes">
-    </i>
-    .NET Core
-   </header>
-   <br/>
-   <header>
-    <i class="fa fa-cubes">
-    </i>
-    .NET Framework
-   </header>
-   <ul>
-    <li>
-     ASP.NET Applications
-    </li>
-    <li>
-     Windows Application
-    </li>
-   </ul>
+    <header><i class="fa fa-tasks"></i>ASP.NET MVC/API/Forms</header>
+    <br/>
+    <header><i class="fa fa-tasks"></i>Xamarin Forms</header>
+    <br/>
+    <header><i class="fa fa-tasks"></i>WPF</header>
+    <br/>
+    <header><i class="fa fa-tasks"></i>Unity</header>
+	<br/>
+    <header><i class="fa fa-tasks"></i>Windows Forms</header>
   </div>
   <!--/right-->
  </div>
  <!--/row-->
  <div class="d1-logo">
   <img alt="AutoCAD .NET API" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
-  <header>
-   Aspose.CAD
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
+  <header>Aspose.CAD</header>
+  <footer><small><em>for</em>.NET</small></footer>
  </div>
  <!--/logo-->
 </div>
@@ -121,67 +105,44 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.CAD for .NET [supported file formats](https://docs.aspose.com/cad/net/supported-file-formats/)  are listed below." >}}
+
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
-   <header>
-    <i class="fa fa-long-arrow-down">
-    </i>
-    Input Only
-   </header>
+   <header><i class="fa fa-long-arrow-down"></i>Input Only</header>
    <ul>
-    <li>
-     DWG Release 11, 12, 13, 14
-    </li>
-    <li>
-     DWG 2000/2000i/2002
-    </li>
-    <li>
-     DWG 2004/2005/2006
-    </li>
-    <li>
-     DWG 2010/2011/2012
-    </li>
-    <li>
-     DWG 2013/2014/2015/2016
-    </li>
-    <li>
-     AutoCAD DXF
-    </li>
-    <li>
-     Autodesk DWF
-    </li>
-    <li>
-     DGN
-    </li>
-    <li>
-     Industry Foundation Classes (IFC)
-    </li>
-    <li>
-     STereoLithography (STL)
-    </li>
+    <li>DWG Release 11, 12, 13, 14</li>
+    <li>DWG 2000/2000i/2002</li>
+    <li>DWG 2004/2005/2006</li>
+    <li>DWG 2010/2011/2012</li>
+    <li>DWG 2013/2014/2015/2016</li>
+    <li>Bentley Systems MicroStation DesiGN File (DGN)</li>
+    <li>Industry Foundation Classes (IFC)</li>
+    <li>STereoLithography (STL)</li>
+    <li> AutoCAD Drawing Template (DWT)</li>
+    <li>Initial Graphics Exchange Specification (IGES)</li>
+    <li>Plotter file (PLT)</li>
+    <li>Common File Format 2 (CF2)</li>
+    <li>Hewlett-Packard Graphics Language (HPGL)</li>
+    <li>Printer Command Language (PCL)</li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header>
-    <i class="fa fa-mail-forward">
-    </i>
-    Output Only
-   </header>
+   <header><i class="fa fa-refresh"> </i> Bi-directional</header>
    <ul>
-    <li>
-     <b>
-      Fixed Layout:
-     </b>
-     PDF
-    </li>
-    <li>
-     <b>
-      Raster Images:
-     </b>
-     PNG, BMP, TIFF, JPEG, GIF
-    </li>
+     <li>Autodesk Drawing Exchange File Format (DXF)</li>
+     <li>AutoCAD Drawing Database File (DWG) Release 2015 (coming soon)</li>
+     <li>Geometry Definition File Format (OBJ)</li>
+     <li>Filmbox Interchange File (FBX)</li>
+     <li>Design Web Format (DWF)</li>
+     <li>Design Web Format XPS formatted (DWFX)</li>
+     <li>Scalable Vector Graphics (SVG)</li>
+   </ul>
+   <header><i class="fa fa-mail-forward"></i>Output Only</header>
+   <ul>
+    <li><b>Fixed Vector Layout:</b> PDF, EMF, WMF</li>
+    <li><b>Raster Images:</b> PNG, BMP, TIFF, JPEG, JP2, PSD, DICOM, WEBP, GIF</li>
    </ul>
   </div>
   <!--/right-->
@@ -189,17 +150,8 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
  <!--/row-->
  <div class="d1-logo">
   <img alt="AutoCAD APIs C#" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
-  <header>
-   Aspose.CAD
-  </header>
-  <footer>
-   <small>
-    <em>
-     for
-    </em>
-    .NET
-   </small>
-  </footer>
+  <header>Aspose.CAD</header>
+  <footer><small><em>for</em>.NET</small></footer>
  </div>
  <!--/logo-->
 </div>
@@ -224,21 +176,21 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
     <em class="fa fa-files-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Supports the latest versions of AutoCAD DWG and DXF files
+     Supports the latest versions of Autodesk DWG, DXF, DWF, DWT, DWFX files
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert the AutoCAD files to high-quality PDF
+     Convert the CAD and BIM files to high-quality PDF and other scalable vector formats
     </p>
    </div>
    <div class="col-lg-4">
     <em class="fa fa-image ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Convert the AutoCAD files to high-quality Raster images
+     Convert various CAD and BIM format files to high-quality Raster images
     </p>
    </div>
    <div class="col-lg-4">
@@ -262,12 +214,19 @@ description: C# ASP.NET VB.NET AutoCAD library to open and convert DWG DXF drawi
      Track the file conversion process
     </p>
    </div>
+   <div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Batch multi-thread files export processing
+    </p>
+   </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert CAD to PDF
+     Convert DWG to PDF
     </h2>
     <p>
-     Aspose.CAD for .NET provides the ability to convert supported CAD drawings to PDF format. The conversion process is highly customizable, allowing you to configure the rendering aspects, such as page size, background color, draw color, scale mode and so on.
+     Aspose.CAD for .NET provides the ability to convert supported CAD drawing files to PDF format. The conversion process is highly customizable, allowing you to configure the rendering aspects, such as page size, background color, draw color, scale mode and so on.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -301,7 +260,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
      Convert CAD to Raster Images
     </h2>
     <p>
-     .NET CAD library also offers high fidelity rendering engine at its core which can convert CAD drawings to most commonly used raster image formats including GIF, TIFF, BMP, PNG &amp; JPEG without requiring any additional software or tool.
+     .NET CAD library also offers high fidelity rendering engine at its core which can convert CAD drawings to most commonly used raster image formats including PNG, BMP, TIFF, JP2, PSD, DICOM, WEBP, GIF &amp; JPEG without requiring any additional software or external tool.
     </p>
    </div>
   </div>
@@ -338,7 +297,10 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
+
+{{< blocks/products/pf/offers-section-item link="/cad/jasperreports/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" sdkName="JasperReports" >}}
+
 
 {{< /blocks/products/pf/offers-section >}}
 
