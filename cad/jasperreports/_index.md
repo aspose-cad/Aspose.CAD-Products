@@ -6,11 +6,11 @@ description: CAD format files processing and manipulation library API to create 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports APIs to Convert to CAD and BIM Files" h2="JasperReports Extension to Export Reports as vector and CAD Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-jasperreports.svg" pfName="Aspose.CAD" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports APIs to Convert to CAD and BIM Files" h2="JasperReports Extension to Export Reports as vector and CAD Image formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-jasperreports.svg" pfName="Aspose.CAD" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cad/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/jasperreports/" installationsDocsLink="https://docs.aspose.com/cad/jasperreports/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad-jasperreports" directDownloadLink="https://downloads.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/jasperreports/" installationsDocsLink="https://docs.aspose.com/cad/jasperreports/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad-jasperreports" directDownloadLink="https://downloads.aspose.com/cad/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -36,7 +36,7 @@ description: CAD format files processing and manipulation library API to create 
   	    <i class="fa fa-file-excel-o"></i>Batch Export</header>
   	  </div>
     </div>
-    <div class="d1-logo"><img alt="JasperReports CAD Exporter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
+    <div class="d1-logo"><img alt="JasperReports CAD Exporter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
       <header>Aspose.CAD</header>
   	  <footer><small><em>for</em>JasperReports</small></footer>
     </div>
@@ -61,7 +61,7 @@ description: CAD format files processing and manipulation library API to create 
       </div>
 	</div>
 	<div class="d1-logo">
-	  <img alt="JasperReports CAD and BIM Converter" class="lazyloaded" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
+	  <img alt="JasperReports CAD and BIM Converter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
 	  <header>Aspose.CAD</header>
 	  <footer><small><em>for</em>JasperReports</small></footer>
 	</div>
@@ -105,7 +105,7 @@ description: CAD format files processing and manipulation library API to create 
    </div>
    <!--/row-->
    <div class="d1-logo">
-    <img alt="CAD APIs plugin for JasperReports" src="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg"/>
+    <img alt="CAD APIs plugin for JasperReports" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg"/>
     <header>Aspose.CAD</header>
     <footer><small><em>for</em>JasperReports</small></footer>
    </div>
@@ -196,9 +196,9 @@ svgExporter.exportReport();
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
-{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
 
-{{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
