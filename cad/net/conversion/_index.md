@@ -9,7 +9,7 @@ description: Convert CAD formats DWG DXF STL CF2 DWF IGES DGN STL FBX OBJ with f
 
 {{% blocks/products/pf/feature-page-summary %}}
 
-For any AutoCAD formats processing application, **.NET CAD API** facilitates the conversion processes easily to view or display CAD designs within the web or desktop applications. API not only loads main AutoCad formats including DWG, DXF, DGN, IFC, IGES, DWF, DWFx, STL, PLT but also converts to PDF and raster images such as PNG, JPG, BMP, TIFF, and GIF with ease.  
+For any AutoCAD files processing application, **.NET CAD API** facilitates the conversion processes easily to view or display CAD designs within the web or desktop applications. API not only loads main AutoCad formats including DWG, DXF, DGN, IFC, IGES, DWF, DWFx, STL, PLT but also converts to PDF and raster images such as PNG, JPG, BMP, TIFF, and GIF with ease.  
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
