@@ -118,7 +118,7 @@ image.save("output.tiff", options);
 
     {{% blocks/products/pf/agp/content h2="Java CAD Document Manipulation Library" %}}
 
- It is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. ‎
+ It is an AutoCAD conversion API. One can easily convert DWG, DWF, DGN and DXF documents to PDF, TIFF, JPEG, PNG and other image formats. Moreover, API provides conversion facility of specific layouts and layers from the AutoCAD documents. Its a standalone API and does not require AutoCAD or any other software installation. 
 
 
 

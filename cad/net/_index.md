@@ -129,7 +129,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
-   <header><i class="fa fa-refresh"> </i> Bi-directional</header>
+   <header><i class="fa fa-refresh"> </i> Bi-directional</header>
    <ul>
      <li>Autodesk Drawing Exchange File Format (DXF)</li>
      <li>AutoCAD Drawing Database File (DWG) Release 2015 (coming soon)</li>
@@ -226,7 +226,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
      Convert DWG to PDF
     </h2>
     <p>
-     Aspose.CAD for .NET provides the ability to convert supported CAD drawing files to PDF format. The conversion process is highly customizable, allowing you to configure the rendering aspects, such as page size, background color, draw color, scale mode and so on.
+     Aspose.CAD for .NET provides the ability to convert supported CAD drawing files to PDF format. The conversion process is highly customizable, allowing you to configure the rendering aspects, such as page size, background color, draw color, scale mode and so on.
     </p>
     <div class="codeblock" id="code">
      <h3>
@@ -257,7 +257,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert CAD to Raster Images
+     Convert CAD to Raster Images
     </h2>
     <p>
      .NET CAD library also offers high fidelity rendering engine at its core which can convert CAD drawings to most commonly used raster image formats including PNG, BMP, TIFF, JP2, PSD, DICOM, WEBP, GIF &amp; JPEG without requiring any additional software or external tool.

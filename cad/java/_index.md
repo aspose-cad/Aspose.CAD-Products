@@ -210,7 +210,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java AutoCAD Library Features
+    Advanced Java AutoCAD Library Features
    </h2>
    <p>
    </p>
@@ -293,7 +293,7 @@ image.save(dir + "output.pdf", pdfOptions);
      Render AutoCAD Drawings in Raster Image Formats
     </h2>
     <p>
-     Having a high fidelity rendering engine at its core, API can convert AutoCAD drawings to various raster images including BMP, GIF, TIFF, PNG &amp; JPEG without the need for any other software or library.
+     Having a high fidelity rendering engine at its core, API can convert AutoCAD drawings to various raster images including BMP, GIF, TIFF, PNG &amp; JPEG without the need for any other software or library.
     </p>
    </div>
   </div>
