@@ -53,7 +53,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java AutoCAD API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="Java AutoCAD API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -96,7 +96,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD Java Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="AutoCAD Java Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -182,7 +182,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java CAD Processing APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="Java CAD Processing APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
   <header>
    Aspose.CAD
   </header>

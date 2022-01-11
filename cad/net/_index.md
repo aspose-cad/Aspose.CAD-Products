@@ -55,7 +55,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET CAD API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
+  <img width="70" height="75" alt=".NET CAD API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>Aspose.CAD</header>
   <footer><small><em>for</em>.NET</small></footer>
  </div>
@@ -95,7 +95,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD .NET API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
+  <img width="70" height="75" alt="AutoCAD .NET API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>Aspose.CAD</header>
   <footer><small><em>for</em>.NET</small></footer>
  </div>
@@ -149,7 +149,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="AutoCAD APIs C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
+  <img width="70" height="75" alt="AutoCAD APIs C#" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg"/>
   <header>Aspose.CAD</header>
   <footer><small><em>for</em>.NET</small></footer>
  </div>

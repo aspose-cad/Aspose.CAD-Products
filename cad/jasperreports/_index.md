@@ -36,7 +36,7 @@ description: CAD format files processing and manipulation library API to create 
   	    <i class="fa fa-file-excel-o"></i>Batch Export</header>
   	  </div>
     </div>
-    <div class="d1-logo"><img alt="JasperReports CAD Exporter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
+    <div class="d1-logo"><img width="70" height="75" alt="JasperReports CAD Exporter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
       <header>Aspose.CAD</header>
   	  <footer><small><em>for</em>JasperReports</small></footer>
     </div>
@@ -61,7 +61,7 @@ description: CAD format files processing and manipulation library API to create 
       </div>
 	</div>
 	<div class="d1-logo">
-	  <img alt="JasperReports CAD and BIM Converter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
+	  <img width="70" height="75" alt="JasperReports CAD and BIM Converter" class="lazyloaded" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg">
 	  <header>Aspose.CAD</header>
 	  <footer><small><em>for</em>JasperReports</small></footer>
 	</div>
@@ -105,7 +105,7 @@ description: CAD format files processing and manipulation library API to create 
    </div>
    <!--/row-->
    <div class="d1-logo">
-    <img alt="CAD APIs plugin for JasperReports" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg"/>
+    <img width="70" height="75" alt="CAD APIs plugin for JasperReports" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg"/>
     <header>Aspose.CAD</header>
     <footer><small><em>for</em>JasperReports</small></footer>
    </div>
