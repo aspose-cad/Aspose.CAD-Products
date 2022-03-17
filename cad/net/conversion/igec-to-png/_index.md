@@ -60,28 +60,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows IGEC to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load IGEC in an instance of Image via its Load method
-using (var image = Image.Load("template.igec"))
-{
-    // create an instance of CadRasterizationOptions and set page height & width
-    var rasterizationOptions = new ImageOptions.CadRasterizationOptions()
-    {
-        PageWidth = 1600,
-        PageHeight = 1600
-    };
-
-    // create an instance of PngOptions
-    var options = new ImageOptions.PngOptions();
-
-    // set the VectorRasterizationOptions property as CadRasterizationOptions
-    options.VectorRasterizationOptions = rasterizationOptions;
-
-    // export IGEC to PNG
-    image.Save("output.png", options);
-} 
-
-```
+{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-igec-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

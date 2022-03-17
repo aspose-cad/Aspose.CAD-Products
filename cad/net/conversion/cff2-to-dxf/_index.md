@@ -60,28 +60,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CFF2 to DXF C# Conversion" offSpacer="" %}}
 
-```cs
-// load CFF2 in an instance of Image via its Load method
-using (var image = Image.Load("template.cff2"))
-{
-    // create an instance of CadRasterizationOptions and set page height & width
-    var rasterizationOptions = new ImageOptions.CadRasterizationOptions()
-    {
-        PageWidth = 1600,
-        PageHeight = 1600
-    };
-
-    // create an instance of DxfOptions
-    var options = new ImageOptions.DxfOptions();
-
-    // set the VectorRasterizationOptions property as CadRasterizationOptions
-    options.VectorRasterizationOptions = rasterizationOptions;
-
-    // export CFF2 to DXF
-    image.Save("output.dxf", options);
-} 
-
-```
+{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-cff2-to-dxf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

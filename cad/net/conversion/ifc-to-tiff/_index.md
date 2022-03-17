@@ -66,28 +66,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows IFC to TIFF C# Conversion" offSpacer="" %}}
 
-```cs
-// load IFC in an instance of Image via its Load method
-using (var image = Image.Load("template.ifc"))
-{
-    // create an instance of CadRasterizationOptions and set page height & width
-    var rasterizationOptions = new ImageOptions.CadRasterizationOptions()
-    {
-        PageWidth = 1600,
-        PageHeight = 1600
-    };
-
-    // create an instance of TiffOptions
-    var options = new ImageOptions.TiffOptions(Aspose.CAD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
-
-    // set the VectorRasterizationOptions property as CadRasterizationOptions
-    options.VectorRasterizationOptions = rasterizationOptions;
-
-    // export IFC to TIFF
-    image.Save("output.tiff", options);
-} 
-
-```
+{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-ifc-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

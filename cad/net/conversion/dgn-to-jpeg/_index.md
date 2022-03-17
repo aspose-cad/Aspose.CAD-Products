@@ -66,28 +66,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows DGN to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// load DGN in an instance of Image via its Load method
-using (var image = Image.Load("template.dgn"))
-{
-    // create an instance of CadRasterizationOptions and set page height & width
-    var rasterizationOptions = new ImageOptions.CadRasterizationOptions()
-    {
-        PageWidth = 1600,
-        PageHeight = 1600
-    };
-
-    // create an instance of JpegOptions
-    var options = new ImageOptions.JpegOptions();
-
-    // set the VectorRasterizationOptions property as CadRasterizationOptions
-    options.VectorRasterizationOptions = rasterizationOptions;
-
-    // export DGN to JPEG
-    image.Save("output.jpeg", options);
-} 
-
-```
+{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-dgn-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
