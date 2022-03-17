@@ -81,25 +81,7 @@ description: Sample Java conversion code for DWT format to BMP file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="DWT to BMP Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load DWT in an instance of Image via its Load method
-Image image = Image.load("template.dwt");
-
-// create an instance of CadRasterizationOptions and set page height & width
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-rasterizationOptions.setPageWidth(1600);
-rasterizationOptions.setPageHeight(1600);
-
-// create an instance of BmpOptions
-TiffOptions options = new TiffOptions();
-
-// set the VectorRasterizationOptions property as CadRasterizationOptions
-options.setVectorRasterizationOptions(rasterizationOptions);
-
-// export DWT to BMP
-image.save("output.bmp", options);   
-
-```
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-dwt-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

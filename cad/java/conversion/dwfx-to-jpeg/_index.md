@@ -78,27 +78,7 @@ In order to render DWFX to JPEG, we’ll use <a href="https://products.aspose.co
 
 {{% blocks/products/pf/agp/code-block title="DWFX to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load DWFX in an instance of Image via its Load method
-Image image = Image.load("template.dwfx");
-
-// create an instance of CadRasterizationOptions and set page height & width
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-rasterizationOptions.setPageWidth(1600);
-rasterizationOptions.setPageHeight(1600);
-
-// create an instance of JpegOptions
-TiffOptions options = new TiffOptions();
-
-// set the VectorRasterizationOptions property as CadRasterizationOptions
-options.setVectorRasterizationOptions(rasterizationOptions);
-
-// export DWFX to JPEG
-image.save("output.jpeg", options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-dwfx-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

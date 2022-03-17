@@ -81,25 +81,7 @@ description: Sample Java conversion code for DGN format to TIFF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="DGN to TIFF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load DGN in an instance of Image via its Load method
-Image image = Image.load("template.dgn");
-
-// create an instance of CadRasterizationOptions and set page height & width
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-rasterizationOptions.setPageWidth(1600);
-rasterizationOptions.setPageHeight(1600);
-
-// create an instance of TiffOptions
-TiffOptions options = new TiffOptions();
-
-// set the VectorRasterizationOptions property as CadRasterizationOptions
-options.setVectorRasterizationOptions(rasterizationOptions);
-
-// export DGN to TIFF
-image.save("output.tiff", options);   
-
-```
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-dgn-to-tiff.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,25 +81,7 @@ description: Sample Java conversion code for PLT format to BMP file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="PLT to BMP Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load PLT in an instance of Image via its Load method
-Image image = Image.load("template.plt");
-
-// create an instance of CadRasterizationOptions and set page height & width
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-rasterizationOptions.setPageWidth(1600);
-rasterizationOptions.setPageHeight(1600);
-
-// create an instance of BmpOptions
-TiffOptions options = new TiffOptions();
-
-// set the VectorRasterizationOptions property as CadRasterizationOptions
-options.setVectorRasterizationOptions(rasterizationOptions);
-
-// export PLT to BMP
-image.save("output.bmp", options);   
-
-```
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-plt-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

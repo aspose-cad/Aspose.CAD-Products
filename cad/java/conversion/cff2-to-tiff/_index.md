@@ -78,27 +78,7 @@ In order to render CFF2 to TIFF, we’ll use <a href="https://products.aspose.co
 
 {{% blocks/products/pf/agp/code-block title="CFF2 to TIFF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load CFF2 in an instance of Image via its Load method
-Image image = Image.load("template.cff2");
-
-// create an instance of CadRasterizationOptions and set page height & width
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-rasterizationOptions.setPageWidth(1600);
-rasterizationOptions.setPageHeight(1600);
-
-// create an instance of TiffOptions
-TiffOptions options = new TiffOptions();
-
-// set the VectorRasterizationOptions property as CadRasterizationOptions
-options.setVectorRasterizationOptions(rasterizationOptions);
-
-// export CFF2 to TIFF
-image.save("output.tiff", options);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-cff2-to-tiff.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
