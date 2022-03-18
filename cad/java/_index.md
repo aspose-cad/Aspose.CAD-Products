@@ -267,25 +267,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
      <h3>
       Save CAD in PDF format - Java
      </h3>
-     <pre><code class="java">// load CAD for conversion
-
-Image image = Image.load(dir + "template.dwg");
-
-// create instance &amp; set resultant page size
-
-CadRasterizationOptions rasterizationOptions = new CadRasterizationOptions();
-
-rasterizationOptions.setPageSize(new SizeF(1200, 1200));
-
-// save PDF
-
-PdfOptions pdfOptions = new PdfOptions();
-
-pdfOptions.setVectorRasterizationOptions(rasterizationOptions);
-
-image.save(dir + "output.pdf", pdfOptions);
-
-</code></pre>
+     {{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "dwg-to-pdf-conversion.java" >}}
     </div>
    </div>
    <div class="col-lg-12">
