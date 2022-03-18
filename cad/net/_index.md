@@ -232,27 +232,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
      <h3>
       Save CAD in PDF format - C#
      </h3>
-     <pre><code class="cs">// load the drawing to be converted
-
-using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
-
-{
-
-    // create an instance of CadRasterizationOptions &amp; set resultant page size
-
-    var rasterizationOptions = new Aspose.CAD.ImageOptions.CadRasterizationOptions()
-
-    {
-
-        PageSize = new Aspose.CAD.SizeF(1200, 1200),
-
-    };
-
-    // save resultant PDF
-
-    img.Save(dir + "output.pdf", new Aspose.CAD.ImageOptions.PdfOptions() { VectorRasterizationOptions = rasterizationOptions });
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "dwg-to-pdf-conversion.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
