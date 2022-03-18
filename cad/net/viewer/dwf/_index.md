@@ -67,31 +67,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="C# code to view DWF" offSpacer="" %}}
 
-```cs
-
-string output = System.IO.Path.GetTempPath() + Guid.NewGuid().ToString() + ".tiff";
-
-// load DWF file in an instance of Image
-using (Aspose.CAD.Image image = Aspose.CAD.Image.Load("template.dwf"))
-{
-    // create an instance of CadRasterizationOptions
-    Aspose.CAD.ImageOptions.CadRasterizationOptions rasterizationOptions = new Aspose.CAD.ImageOptions.CadRasterizationOptions();
-    rasterizationOptions.PageWidth = 1200;
-    rasterizationOptions.PageHeight = 1200;
-
-    // create an instance of TiffOptions for the resultant image
-    var options = new Aspose.CAD.ImageOptions.TiffOptions(Aspose.CAD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
-
-    // set VectorRasterizationOptions property
-    options.VectorRasterizationOptions = rasterizationOptions;
-
-    // save DWF as TIFF image
-    image.Save(output, options);
-}
-// load resultant TIFF image in default application
-System.Diagnostics.Process.Start(output);
-
-```
+{{< gist "aspose-com-gists" "b288286d299fb1cca841c1e50cfabb12" "view-dwf-files.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
