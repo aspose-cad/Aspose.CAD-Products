@@ -12,7 +12,7 @@ description: Esempio di codice di conversione Java per il formato IFC in file DX
 
 {{% blocks/products/pf/agp/content h2="Come convertire IFC in DXF usando Java" %}}
 
-Per eseguire il rendering di IFC in DXF, utilizzeremo l'API <a href=https://products.aspose.com/cad/java>Aspose.CAD per Java</a> che è un'API ricca di funzionalità, potente e semplice per utilizzare l'API di conversione per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da <a href=https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad>Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni al file pom.xml.
+Per eseguire il rendering di IFC in DXF, utilizzeremo l'API <a href=https://products.aspose.com/cad/java>Aspose.CAD for Java</a> che è un'API ricca di funzionalità, potente e semplice per utilizzare l'API di conversione per la piattaforma Java. Puoi scaricare la sua ultima versione direttamente da <a href=https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad>Maven</a> e installalo all'interno del tuo progetto basato su Maven aggiungendo le seguenti configurazioni al file pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 
@@ -65,7 +65,7 @@ Per eseguire il rendering di IFC in DXF, utilizzeremo l'API <a href=https://prod
 
 {{% /blocks/products/pf/agp/text %}}
 - Microsoft Windows o un sistema operativo compatibile con Java Runtime Environment per applicazioni JSP/JSF e applicazioni desktop.
-- Ottieni l'ultima versione di Aspose.CAD per Java direttamente da Maven.
+- Ottieni l'ultima versione di Aspose.CAD for Java direttamente da Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Codice sorgente di conversione Java da IFC a DXF" offSpacer="" %}}

@@ -12,7 +12,7 @@ description: Código de exemplo para conversão de PLT para BMP C#. Use o códig
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Para converter PLT para BMP, usaremos a API <a href=https://products.aspose.com/cad/net>Aspose.CAD para .NET</a>, que é uma API rica em recursos, poderosa e API de manipulação e conversão de documentos fácil de usar para plataforma C#. Abra o gerenciador de pacotes <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, procure por Aspose.CAD e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
+Para converter PLT para BMP, usaremos a API <a href=https://products.aspose.com/cad/net>Aspose.CAD for .NET</a>, que é uma API rica em recursos, poderosa e API de manipulação e conversão de documentos fácil de usar para plataforma C#. Abra o gerenciador de pacotes <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, procure por Aspose.CAD e instale. Você também pode usar o seguinte comando do Console do Gerenciador de Pacotes.
 
 {{% blocks/products/pf/agp/code-block title="Comando do console do gerenciador de pacotes" offSpacer="true" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.CAD
 
 - Microsoft Windows ou um sistema operacional compatível com .NET Framework, .NET Core e PHP, VBScript, Delphi, C++ via COM Interop.
 - Ambiente de desenvolvimento como Microsoft Visual Studio.
-- Aspose.CAD para .NET DLL referenciado em seu projeto.
+- Aspose.CAD for .NET DLL referenciado em seu projeto.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

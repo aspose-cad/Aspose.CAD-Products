@@ -12,7 +12,7 @@ description: Przykładowy kod konwersji OBJ do PNG C#. Użyj przykładowego kodu
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Aby przekonwertować OBJ na PNG, użyjemy interfejsu API <a href=https://products.aspose.com/cad/net>Aspose.CAD dla .NET</a>, który jest bogaty w funkcje, potężny i łatwy w użyciu interfejs API do manipulacji i konwersji dokumentów dla platformy C#. Otwórz menedżera pakietów <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, wyszukaj Aspose.CAD i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
+Aby przekonwertować OBJ na PNG, użyjemy interfejsu API <a href=https://products.aspose.com/cad/net>Aspose.CAD for .NET</a>, który jest bogaty w funkcje, potężny i łatwy w użyciu interfejs API do manipulacji i konwersji dokumentów dla platformy C#. Otwórz menedżera pakietów <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, wyszukaj Aspose.CAD i zainstaluj. Możesz również użyć następującego polecenia z konsoli Menedżera pakietów.
 
 {{% blocks/products/pf/agp/code-block title="Polecenie konsoli menedżera pakietów" offSpacer="true" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.CAD
 
 - Microsoft Windows lub kompatybilny system operacyjny z .NET Framework, .NET Core i PHP, VBScript, Delphi, C++ przez COM Interop.
 - Środowisko programistyczne, takie jak Microsoft Visual Studio.
-- Aspose.CAD dla .NET DLL, do którego odwołuje się Twój projekt.
+- Aspose.CAD for .NET DLL, do którego odwołuje się Twój projekt.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

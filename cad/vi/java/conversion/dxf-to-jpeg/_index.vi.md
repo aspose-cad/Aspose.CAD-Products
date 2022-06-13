@@ -12,7 +12,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng DXF thành tệp 
 
 {{% blocks/products/pf/agp/content h2="Cách chuyển đổi DXF sang JPEG bằng Java" %}}
 
-Để hiển thị DXF thành JPEG, chúng tôi sẽ sử dụng API <a href=https://products.aspose.com/cad/java> Aspose.CAD cho Java </a>, đây là một API giàu tính năng, mạnh mẽ và dễ dàng để sử dụng API chuyển đổi cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất trực tiếp từ <a href=https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad> Maven </a> và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
+Để hiển thị DXF thành JPEG, chúng tôi sẽ sử dụng API <a href=https://products.aspose.com/cad/java> Aspose.CAD for Java </a>, đây là một API giàu tính năng, mạnh mẽ và dễ dàng để sử dụng API chuyển đổi cho nền tảng Java. Bạn có thể tải xuống phiên bản mới nhất trực tiếp từ <a href=https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad> Maven </a> và cài đặt nó trong dự án dựa trên Maven của bạn bằng cách thêm các cấu hình sau vào pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Kho" offSpacer="true" %}}
 
@@ -65,7 +65,7 @@ description: Mã chuyển đổi Java mẫu cho định dạng DXF thành tệp 
 
 {{% /blocks/products/pf/agp/text %}}
 - Microsoft Windows hoặc hệ điều hành tương thích với Môi trường thời gian chạy Java cho Ứng dụng JSP / JSF và Ứng dụng máy tính để bàn.
-- Tải phiên bản mới nhất của Aspose.CAD cho Java trực tiếp từ Maven.
+- Tải phiên bản mới nhất của Aspose.CAD for Java trực tiếp từ Maven.
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="Mã nguồn chuyển đổi Java từ DXF sang JPEG" offSpacer="" %}}

@@ -12,7 +12,7 @@ description: Mã mẫu cho chuyển đổi DWG sang PDF C #. Sử dụng mã ví
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Để chuyển đổi DWG thành PDF, chúng tôi sẽ sử dụng API <a href=https://products.aspose.com/cad/net> Aspose.CAD cho .NET </a>, đây là một API giàu tính năng, mạnh mẽ và dễ sử dụng thao tác tài liệu và API chuyển đổi cho nền tảng C #. Mở trình quản lý gói <a href=https://www.nuget.org/packages/aspose.cad> NuGet </a>, tìm kiếm Aspose.CAD và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
+Để chuyển đổi DWG thành PDF, chúng tôi sẽ sử dụng API <a href=https://products.aspose.com/cad/net> Aspose.CAD for .NET </a>, đây là một API giàu tính năng, mạnh mẽ và dễ sử dụng thao tác tài liệu và API chuyển đổi cho nền tảng C #. Mở trình quản lý gói <a href=https://www.nuget.org/packages/aspose.cad> NuGet </a>, tìm kiếm Aspose.CAD và cài đặt. Bạn cũng có thể sử dụng lệnh sau từ Bảng điều khiển Trình quản lý Gói.
 
 {{% blocks/products/pf/agp/code-block title="Lệnh Bảng điều khiển Trình quản lý Gói" offSpacer="true" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.CAD
 
 - Microsoft Windows hoặc hệ điều hành tương thích với .NET Framework, .NET Core và PHP, VBScript, Delphi, C ++ thông qua COM Interop.
 - Môi trường phát triển như Microsoft Visual Studio.
-- Aspose.CAD cho .NET DLL được tham chiếu trong dự án của bạn.
+- Aspose.CAD for .NET DLL được tham chiếu trong dự án của bạn.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 

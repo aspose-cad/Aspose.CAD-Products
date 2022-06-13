@@ -12,7 +12,7 @@ description: Exemple de code pour la conversion DXF en JPEG C#. Utilisez le code
 
 {{% blocks/products/pf/agp/content h2="" %}}
 
-Afin de convertir DXF en JPEG, nous utiliserons l'API <a href=https://products.aspose.com/cad/net>Aspose.CAD pour .NET</a> qui est riche en fonctionnalités, puissante et API de manipulation et de conversion de documents facile à utiliser pour la plate-forme C#. Ouvrez le gestionnaire de packages <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, recherchez Aspose.CAD et installez-le. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
+Afin de convertir DXF en JPEG, nous utiliserons l'API <a href=https://products.aspose.com/cad/net>Aspose.CAD for .NET</a> qui est riche en fonctionnalités, puissante et API de manipulation et de conversion de documents facile à utiliser pour la plate-forme C#. Ouvrez le gestionnaire de packages <a href=https://www.nuget.org/packages/aspose.cad>NuGet</a>, recherchez Aspose.CAD et installez-le. Vous pouvez également utiliser la commande suivante à partir de la console du gestionnaire de packages.
 
 {{% blocks/products/pf/agp/code-block title="Commande de la console du gestionnaire de packages" offSpacer="true" %}}
 
@@ -49,7 +49,7 @@ PM> Install-Package Aspose.CAD
 
 - Microsoft Windows ou un système d'exploitation compatible avec .NET Framework, .NET Core et PHP, VBScript, Delphi, C++ via COM Interop.
 - Environnement de développement comme Microsoft Visual Studio.
-- Aspose.CAD pour .NET DLL référencé dans votre projet.
+- Aspose.CAD for .NET DLL référencé dans votre projet.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
