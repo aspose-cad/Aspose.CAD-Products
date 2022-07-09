@@ -197,9 +197,11 @@ svgExporter.exportReport();
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
+{{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+
 {{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
 
-{{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" sdkName="Python" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

@@ -2,21 +2,29 @@
 title: .NET and Java CAD APIs | AutoCAD Files Conversion 
 weight: 10
 url: /family
-description: Export DWG, DXF, DGN and other AutoCAD files to PDF & images from within .NET and Java applications. Render specific layers or layouts via AutoCAD Library
+description: Export DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX files to PDF and vector or raster images from within .NET, Java, Python applications or by utilizing JasperReports tools.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="AutoCAD File Conversion APIs" h2="Native .NET & Java APIs to convert AutoCAD DWG & DXF drawings to PDF & raster images." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad.svg" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="CAD and BIM File Conversion APIs" h2="Native .NET & Java APIs to convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX drawings to raster and vector images images including PDF." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad.svg" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.CAD for" title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
-Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
+Targets Asp.NET Web API, Windows Forms, Unity, Blazor, UWP, WPF, WCF or any type of application based on .NET Framework, .Net Core or .NET6.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.CAD for" title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productLink="/cad/java/" >}}
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python/" >}}
+Python APIs for applications based on Python 3.9 or later.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JasperReports" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productLink="https://products.aspose.com/cad/jasperreports" >}}
+Export reports into various CAD and other vector format files from JasperReports.
 {{< /blocks/products/pf/product >}}
 
 {{< /blocks/products/pf/product-card-row >}}
