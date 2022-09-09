@@ -6,7 +6,7 @@ description: .NET 및 Java 응용 프로그램 내에서 DWG 및 DXF AutoCAD 파
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 파일 변환 API" h2="AutoCAD DWG 및 DXF 도면을 PDF 및 래스터 이미지로 변환하는 기본 .NET 및 Java API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 파일 변환 API" h2="AutoCAD DWG 및 DXF 도면을 PDF 및 래스터 이미지로 변환하는 기본 .NET 및 Java API." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD 온프레미스 API 포함" >}}
@@ -43,6 +43,6 @@ Windows Forms, ASP.NET, WPF, WCF 또는 .NET Framework 2.0 이상을 기반으�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

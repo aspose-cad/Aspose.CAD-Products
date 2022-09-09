@@ -6,11 +6,11 @@ description: C# ASP.NET VB.NET ऑटोकैड लाइब्रेरी �
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1=".NET APIs AutoCAD फ़ाइलों को कनवर्ट करने के लिए" h2="डीडब्ल्यूजी और डीएक्सएफ फाइलों को बिना किसी ऑटोकैड सॉफ्टवेयर के पीडीएफ और रैस्टर इमेज में बदलें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1=".NET APIs AutoCAD फ़ाइलों को कनवर्ट करने के लिए" h2="डीडब्ल्यूजी और डीएक्सएफ फाइलों को बिना किसी ऑटोकैड सॉफ्टवेयर के पीडीएफ और रैस्टर इमेज में बदलें।" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -334,7 +334,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD नीचे सूचीबद्ध अन्य लोकप्रिय विकास परिवेशों के लिए अलग-अलग देशी एपीआई प्रदान करता है:" >}}
 

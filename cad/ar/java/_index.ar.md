@@ -6,11 +6,11 @@ description: مكتبة AutoCAD لفتح ملفات رسم DWG و DXF وتحوي
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات تحويل Java AutoCAD" h2="قم بتحويل مستندات DWG و DXF و STL إلى تنسيقات PDF والصور النقطية بدون أي برنامج CAD." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات تحويل Java AutoCAD" h2="قم بتحويل مستندات DWG و DXF و STL إلى تنسيقات PDF والصور النقطية بدون أي برنامج CAD." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="تخطيط ثابت:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad" directDownloadLink="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="تخطيط ثابت:" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -326,7 +326,7 @@ image.save(dir + "output.pdf", pdfOptions);
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="يقدم Aspose.CAD واجهات برمجة تطبيقات أصلية فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 

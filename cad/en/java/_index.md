@@ -6,11 +6,11 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad" directDownloadLink="https://downloads.aspose.com/cad/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -291,6 +291,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cad/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad/Aspose.CAD-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/cad/" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/cad/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -308,7 +309,7 @@ description: AutoCAD library to open and convert DWG and DXF drawing files to PD
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 

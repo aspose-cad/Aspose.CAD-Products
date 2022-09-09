@@ -6,7 +6,7 @@ description: DWG és DXF AutoCAD fájlokat exportálhat PDF-be és képekbe .NET
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD fájlkonverziós API-k" h2="Natív .NET és Java API-k az AutoCAD DWG és DXF rajzok PDF- és raszterképekké konvertálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD fájlkonverziós API-k" h2="Natív .NET és Java API-k az AutoCAD DWG és DXF rajzok PDF- és raszterképekké konvertálásához." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Az Aspose.CAD On Premise API-k közé tartozik" >}}
@@ -43,6 +43,6 @@ Natív Java API-k asztali számítógépekhez, webhez vagy bármilyen Java SE va
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

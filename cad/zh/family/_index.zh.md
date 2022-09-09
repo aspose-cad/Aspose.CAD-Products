@@ -6,7 +6,7 @@ description: 从 .NET 和 Java 应用程序中将 DWG 和 DXF AutoCAD 文件导�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 文件转换 API" h2="本机 .NET 和 Java API 可将 AutoCAD DWG 和 DXF 图形转换为 PDF 和光栅图像。" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 文件转换 API" h2="本机 .NET 和 Java API 可将 AutoCAD DWG 和 DXF 图形转换为 PDF 和光栅图像。" logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise API 包括" >}}
@@ -43,6 +43,6 @@ description: 从 .NET 和 Java 应用程序中将 DWG 和 DXF AutoCAD 文件导�
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

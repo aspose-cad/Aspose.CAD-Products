@@ -6,7 +6,7 @@ description: Exportujte DWG a DXF soubory AutoCADu do PDF a obrázků z aplikac�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro převod souborů AutoCAD" h2="Nativní rozhraní .NET a Java API pro převod výkresů AutoCAD DWG a DXF do PDF a rastrových obrázků." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="Rozhraní API pro převod souborů AutoCAD" h2="Nativní rozhraní .NET a Java API pro převod výkresů AutoCAD DWG a DXF do PDF a rastrových obrázků." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise API zahrnuje" >}}
@@ -43,6 +43,6 @@ Nativní Java API pro desktop, web nebo jakýkoli druh aplikace založené na Ja
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

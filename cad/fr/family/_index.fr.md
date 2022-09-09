@@ -6,7 +6,7 @@ description: Exportez des fichiers DWG et DXF AutoCAD au format PDF et des image
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="API de conversion de fichiers AutoCAD" h2="API natives .NET et Java pour convertir les dessins AutoCAD DWG et DXF en images PDF et raster." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="API de conversion de fichiers AutoCAD" h2="API natives .NET et Java pour convertir les dessins AutoCAD DWG et DXF en images PDF et raster." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Les API Aspose.CAD sur site incluent" >}}
@@ -43,6 +43,6 @@ API Java natives pour le bureau, le Web ou tout type d'application basée sur Ja
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

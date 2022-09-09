@@ -6,7 +6,7 @@ description: قم بتصدير ملفات DWG و DXF AutoCAD إلى ملفات P
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات تحويل ملف AutoCAD" h2="NET و Java APIs لتحويل رسومات AutoCAD DWG & DXF إلى PDF والصور النقطية." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="واجهات برمجة تطبيقات تحويل ملف AutoCAD" h2="NET و Java APIs لتحويل رسومات AutoCAD DWG & DXF إلى PDF والصور النقطية." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="تتضمن Aspose.CAD On Premise APIs" >}}
@@ -43,6 +43,6 @@ description: قم بتصدير ملفات DWG و DXF AutoCAD إلى ملفات P
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

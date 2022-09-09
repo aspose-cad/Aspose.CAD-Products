@@ -6,11 +6,11 @@ description: مكتبة C # ASP.NET VB.NET AutoCAD لفتح وتحويل مست�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لتحويل ملفات AutoCAD" h2="قم بتحويل ملفات DWG و DXF إلى PDF و Raster Images بدون أي برنامج AutoCAD." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="NET APIs لتحويل ملفات AutoCAD" h2="قم بتحويل ملفات DWG و DXF إلى PDF و Raster Images بدون أي برنامج AutoCAD." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -334,7 +334,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="يقدم Aspose.CAD واجهات برمجة تطبيقات أصلية فردية لبيئات التطوير الشائعة الأخرى كما هو موضح أدناه:" >}}
 

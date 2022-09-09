@@ -6,7 +6,7 @@ description: Exporteer DWG- en DXF AutoCAD-bestanden naar PDF en afbeeldingen va
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD-bestandsconversie-API's" h2="Native .NET- en Java-API's om AutoCAD DWG- en DXF-tekeningen naar PDF en rasterafbeeldingen te converteren." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://downloads.aspose.com/cad" tryOnlineUrl="" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD-bestandsconversie-API's" h2="Native .NET- en Java-API's om AutoCAD DWG- en DXF-tekeningen naar PDF en rasterafbeeldingen te converteren." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/header/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="https://releases.aspose.com/cad" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise API's omvatten:" >}}
@@ -43,6 +43,6 @@ Native Java API's voor de desktop, het web of elke soort applicatie op basis van
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad" pricingInformationLink="https://purchase.aspose.com/pricing/cad" >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

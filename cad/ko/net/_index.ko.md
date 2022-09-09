@@ -6,11 +6,11 @@ description: DWG DXF 도면 문서를 열고 PDF PNG GIF BMP JPEG 및 TIFF 형�
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 파일을 변환하는 .NET API" h2="AutoCAD 소프트웨어 없이 DWG 및 DXF 파일을 PDF 및 래스터 이미지로 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/upper-banner h1="AutoCAD 파일을 변환하는 .NET API" h2="AutoCAD 소프트웨어 없이 DWG 및 DXF 파일을 PDF 및 래스터 이미지로 변환합니다." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/cad/net" >}}
+{{< blocks/products/pf/i18n/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/cad/aspose_cad-for-net.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/net/" installationsDocsLink="https://docs.aspose.com/cad/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.CAD/" nugetPackageName="Aspose.CAD" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/net" >}}
 
 {{< blocks/products/pf/i18n/tab-content >}}
 <p>
@@ -334,7 +334,7 @@ using (var img = Aspose.CAD.Image.Load(dir + "template.dwg"))
 
 {{< /blocks/products/pf/i18n/support-learning-resources >}}
 
-{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
+{{< blocks/products/pf/i18n/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/net" pricingInformationLink="https://purchase.aspose.com/pricing/cad/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD는 아래 나열된 다른 인기 있는 개발 환경을 위한 개별 기본 API를 제공합니다." >}}
 

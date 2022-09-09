@@ -6,11 +6,11 @@ description: CAD format files processing and manipulation library API to create 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JasperReports APIs to Convert to CAD and BIM Files" h2="JasperReports Extension to Export Reports as vector and CAD Image formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-jasperreports.svg" pfName="Aspose.CAD" subTitlepfName="for JasperReports" downloadUrl="https://downloads.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/upper-banner h1="JasperReports APIs to Convert to CAD and BIM Files" h2="JasperReports Extension to Export Reports as vector and CAD Image formats." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-jasperreports.svg" pfName="Aspose.CAD" subTitlepfName="for JasperReports" downloadUrl="https://releases.aspose.com/cad/jasperreports" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for JasperReports" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/jasperreports/" installationsDocsLink="https://docs.aspose.com/cad/jasperreports/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad-jasperreports" directDownloadLink="https://downloads.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/jasperreports" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/jasperreports/" installationsDocsLink="https://docs.aspose.com/cad/jasperreports/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/cad/-jasperreports" directDownloadLink="https://releases.aspose.com/cad/jasperreports" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -175,6 +175,7 @@ svgExporter.exportReport();
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cad/jasperreports/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad/Aspose.CAD-for-JasperReports" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/cad/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -192,7 +193,7 @@ svgExporter.exportReport();
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/cad/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cad/jasperreports" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/jasperreports" pricingInformationLink="https://purchase.aspose.com/pricing/cad/jasperreports" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
