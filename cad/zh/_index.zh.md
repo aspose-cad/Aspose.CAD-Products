@@ -1,7 +1,7 @@
 ---
 title: 用于处理 AutoCAD 文件的本地、基于云和应用程序的解决方案 
 weight: 350
-url: /zh/zh/
+url: /zh/
 description: 构建应用程序以通过 On Premise API 或基于云的 SDK 处理和转换 AutoCAD 绘图。使用跨平台应用程序来渲染或转换 AutoCAD 文件。
 ---
 

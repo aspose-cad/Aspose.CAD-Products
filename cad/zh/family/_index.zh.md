@@ -1,7 +1,7 @@
 ---
 title: .NET 和 Java CAD API | AutoCAD 文件转换 
 weight: 10
-url: /zh/zh/family
+url: /zh/family
 description: 从 .NET 和 Java 应用程序中将 DWG 和 DXF AutoCAD 文件导出为 PDF 和图像。通过 AutoCAD 库渲染特定图层或布局
 ---
 

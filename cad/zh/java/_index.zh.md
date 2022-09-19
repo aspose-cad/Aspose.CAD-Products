@@ -1,7 +1,7 @@
 ---
 title: Java AutoCAD API |处理和转换 AutoCAD 文件 
 weight: 950
-url: /zh/zh/java/ 
+url: /zh/java/ 
 description: AutoCAD 库，用于在 Java 应用程序中打开 DWG 和 DXF 绘图文件并将其转换为 PDF PNG GIF BMP JPEG 和 TIFF 图像格式
 ---
 

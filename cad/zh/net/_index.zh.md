@@ -1,7 +1,7 @@
 ---
 title: C# .NET AutoCAD 处理 API - Aspose 
 weight: 330
-url: /zh/zh/net/ 
+url: /zh/net/ 
 description: C# ASP.NET VB.NET AutoCAD 库，用于打开 DWG DXF 绘图文档并将其转换为 PDF PNG GIF BMP JPEG 和 TIFF 格式
 ---
 
