@@ -14,7 +14,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.CAD for .NET is a standalone CAD and BIM files processing API suitable for .Net Core, Xamarin for Android and iOS. It provides the functionality to convert DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, SVG files to high-quality PDF and other vector and raster image files such as: BMP, GIF, JPG, JPEG, JP2, PNG, TIFF, PSD, DICOM, WEBP, WMF, EMF. Developers can select and convert specific layouts and layers from the AutoCAD files as well as track the whole file conversion process with ease. Aspose.CAD for .NET API is multi-thread safe and ready for bulk parallel processing with cancellation support.
+ Aspose.CAD for .NET is a standalone CAD and BIM files processing API suitable for .Net Core, Xamarin for Android and iOS. It provides the functionality to <a href="/cad/net/conversion">convert</a> DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, SVG files to high-quality PDF and other vector and raster image files such as: BMP, GIF, JPG, JPEG, JP2, PNG, TIFF, PSD, DICOM, WEBP, WMF, EMF. Developers can select and convert specific layouts and layers from the AutoCAD files as well as track the whole file conversion process with ease. Aspose.CAD for .NET API is multi-thread safe and ready for bulk parallel processing with cancellation support.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -48,7 +48,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
     <li>Complete Drawing</li>
     <li>Specific Layout</li>
 	<li>Selected Layers</li>
-    <li>Adjustable export options</li>    
+    <li>Adjustable <a href="/cad/net/conversion">export</a> options</li>    
    </ul>
   </div>
   <!--/right-->
@@ -223,7 +223,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert DWG to PDF
+     Convert <a href="/cad/net/conversion/dwg-to-pdf">DWG to PDF</a>
     </h2>
     <p>
      Aspose.CAD for .NET provides the ability to convert supported CAD drawing files to PDF format. The conversion process is highly customizable, allowing you to configure the rendering aspects, such as page size, background color, draw color, scale mode and so on.
@@ -279,6 +279,8 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
 {{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
+
+{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" sdkName="Python" >}}
 
 {{< blocks/products/pf/offers-section-item link="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" sdkName="JasperReports" >}}
 
