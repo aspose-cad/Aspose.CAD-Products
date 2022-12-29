@@ -1,7 +1,7 @@
 ---
 title: .NET и Java CAD API | Преобразование файлов AutoCAD 
 weight: 10
-url: /ru/ru/family
+url: /ru/family
 description: Экспортируйте файлы AutoCAD DWG и DXF в PDF и изображения из приложений .NET и Java. Рендеринг определенных слоев или компоновок с помощью библиотеки AutoCAD.
 ---
 
