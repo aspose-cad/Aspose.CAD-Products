@@ -210,7 +210,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java CAD Library Features
+    Advanced Java CADï¿½Library Features
    </h2>
    <p>
    </p>
@@ -275,7 +275,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
      <a href="/cad/java/conversion">Render CAD and BIM Drawings</a> in Raster and Vector Image Formats
     </h2>
     <p>
-     Having a high fidelity rendering engine at its core, API can convert CAD and BIM drawings to various vector and raster images including Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000(JP2), Dicom, Webp, Emf, Wmf, Svg, PDF without the need for any other software or library.
+     Having a high fidelity rendering engine at its core, API can convert CAD and BIM drawings to various vector andï¿½raster images including Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000(JP2), Dicom, Webp, Emf, Wmf, Svg, PDF without the need for any other software or library.
     </p>
    </div>
   </div>
