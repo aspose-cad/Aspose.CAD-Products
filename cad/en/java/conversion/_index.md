@@ -29,4 +29,4 @@ To convert the AutoCad formats, Load the source format via [Image.load](https://
 {{% /blocks/products/pf/feature-page-code  %}}
 
 {{% /blocks/products/pf/feature-page-section %}}
-{{< blocks/products/pf/feature-page-options pairs="dgn-to-bmp dwf-to-jpeg dwfx-to-png dxf-to-gif ifc-to-tiff igec-to-pdf stl-to-bmp" >}}
+{{< blocks/products/pf/feature-page-options pairs="dgn-to-bmp dwf-to-jpeg dwfx-to-png dxf-to-gif ifc-to-tiff IGES-to-pdf stl-to-bmp" >}}
