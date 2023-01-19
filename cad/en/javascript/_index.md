@@ -273,7 +273,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
      <h3>
       Save CAD in PDF format - JavaScript
      </h3>
-     {{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "dwg-to-pdf-conversion.JavaScript" >}}
+     {{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "dwg-to-pdf-conversion.js" >}}
     </div>
    </div>
    <div class="col-lg-12">
