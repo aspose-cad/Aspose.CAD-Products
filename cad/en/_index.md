@@ -1,5 +1,5 @@
 ---
-title: On Premise, Cloud & App Based Solutions to Process CAD and BIM Files without AutoCAD
+title: On Premise, Cloud & App Based Solutions to Process CAD and BIM Files
 weight: 350
 url: /
 description: Build applications to process & convert CAD and BIM drawing files via High Code APIs or Cloud-based SDKs. Use cross-platform apps to open, render, export and convert DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, SVG file formats without additional CAD software.
@@ -11,19 +11,23 @@ description: Build applications to process & convert CAD and BIM drawing files v
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="https://products.aspose.com/cad/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
 Process CAD files on desktop, native and web applications based on ASP.NET MVC/API, WPF, UWP, Windows Forms and compatible with .Net Core, Xamarin, .NET Framework and Mono.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productLink="https://products.aspose.com/cad/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Java" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" productLink="/cad/java/" >}}
 CAD and BIM drawings conversion API to work with any Java SE or EE based application. Select specific layers or layouts to convert to PDF, PNG or other vector and raster image file formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productLink="https://products.aspose.com/cad/jasperreports" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="cad/aspose_cad-for-js.svg" productLink="/cad/javascript/" >}}
+Export various CAD and BIM drawing file into raster and vector format files via WebAssembly for JavaScript or TypeScript. Library can run inside Angular, Vue, React applications and through vanilla JavaScript or TypeScript code.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JasperReports" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" productLink="/cad/jasperreports/" >}}
 Export reports into various CAD and other vector format files from JasperReports.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="https://products.aspose.com/cad/python" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python/" >}}
 Export various CAD and BIM drawing file into raster and vector format files via Python.
 {{< /blocks/products/pf/product >}}
 

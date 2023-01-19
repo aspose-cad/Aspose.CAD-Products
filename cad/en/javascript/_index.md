@@ -1,20 +1,20 @@
 ---
-title: Aspose.CAD Java API | Process and Convert CAD and BIM Files 
+title: Aspose.CAD JavaScript API | Process and Convert CAD and BIM Files 
 weight: 950
-url: /java/ 
-description: CAD and BIM drawings processing library to open and convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000, Dicom, Webp, Emf, Wmf, Svg, Pdf image formats within java applications
+url: /javascript/ 
+description: CAD and BIM drawings processing library to open and convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000, Dicom, Webp, Emf, Wmf, Svg, Pdf image formats within JavaScript applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/cad/java" >}}
+{{< blocks/products/pf/upper-banner h1="JavaScript AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="../cad/aspose_cad-for-js.svg" pfName="Aspose.CAD" subTitlepfName="for JavaScript" downloadUrl="https://releases.aspose.com/cad/javascript" >}}
 
-{{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Java" >}}
+{{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for JavaScript" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/java/" installationsDocsLink="https://docs.aspose.com/cad/java/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="../cad/aspose_cad_families-javascript.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/javascript" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/javascript/" installationsDocsLink="https://docs.aspose.com/cad/javascript/installation/" nugetLink="" nugetPackageName="Fixed Layout:" mavenRepoLink="https://repository.aspose.com/cad/" directDownloadLink="https://releases.aspose.com/cad/javascript" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.CAD for Java is an advanced <a href="/cad/java/conversion">CAD conversion native API</a> without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF. During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
+ Aspose.CAD for JavaScript is an <a href="/cad/javascript/conversion">CAD conversion native API</a> without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF. During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -53,7 +53,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java AutoCAD API" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="JavaScript AutoCAD API" src="../cad/aspose_cad-for-js.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -62,7 +62,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <em>
      for
     </em>
-    Java
+    JavaScript
    </small>
   </footer>
  </div>
@@ -71,7 +71,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD for Java supports the JDK 1.6 and above." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD for JavaScript supports the ES1 and above." >}}
 <div class="diagram1 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -81,14 +81,17 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    Java Platform
+    JavaScript and TypeScript frameworks
    </header>
    <ul>
     <li>
-     J2SE 6.0 (1.6)
+     Angular
+    </li>
+	<li>
+     React
     </li>
     <li>
-     J2SE 7.0 (1.7)
+     Vue
     </li>
    </ul>
   </div>
@@ -96,7 +99,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="AutoCAD Java Library" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="CAD drawings JavaScript Library" src="../cad/aspose_cad-for-js.svg" />
   <header>
    Aspose.CAD
   </header>
@@ -105,7 +108,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <em>
      for
     </em>
-    Java
+    JavaScript
    </small>
   </footer>
  </div>
@@ -114,7 +117,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/java/supported-file-formats/)  are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/javascript/supported-file-formats/)  are listed below." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -182,7 +185,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="Java CAD Processing APIs" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg"/>
+  <img width="70" height="75" alt="JavaScript CAD Processing APIs" src="../cad/aspose_cad-for-js.svg" />
   <header>
    Aspose.CAD
   </header>
@@ -191,7 +194,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <em>
      for
     </em>
-    Java
+    JavaScript
    </small>
   </footer>
  </div>
@@ -210,7 +213,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java CAD�Library Features
+    Advanced JavaScript CAD Library Features
    </h2>
    <p>
    </p>
@@ -225,7 +228,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <em class="fa fa-file-pdf-o ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     AutoCAD documents conversion to PDF
+     CAD and BIM documents conversion to PDF
     </p>
    </div>
    <div class="col-lg-4">
@@ -258,24 +261,24 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     <a href="/cad/java/conversion/dxf-to-pdf">DXF to PDF</a> Format Conversion
+     <a href="/cad/javascript/conversion/dxf-to-pdf">DXF to PDF</a> Format Conversion
     </h2>
     <p>
-     Aspose.CAD for Java API supports converting CAD drawings to PDF. Developers can easily adjust drawing options like draw color, background color, page size, scale mode and so on before conversion.
+     Aspose.CAD for JavaScript API supports converting CAD drawings to PDF. Developers can easily adjust drawing options like draw color, background color, page size, scale mode and so on before conversion.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Save CAD in PDF format - Java
+      Save CAD in PDF format - JavaScript
      </h3>
-     {{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "dwg-to-pdf-conversion.java" >}}
+     {{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "dwg-to-pdf-conversion.JavaScript" >}}
     </div>
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     <a href="/cad/java/conversion">Render CAD and BIM Drawings</a> in Raster and Vector Image Formats
+     <a href="/cad/javascript/conversion">Render CAD and BIM Drawings</a> in Raster and Vector Image Formats
     </h2>
     <p>
-     Having a high fidelity rendering engine at its core, API can convert CAD and BIM drawings to various vector and�raster images including Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000(JP2), Dicom, Webp, Emf, Wmf, Svg, PDF without the need for any other software or library.
+     Having a high fidelity rendering engine at its core, API can convert CAD and BIM drawings to various vector and raster images including Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000(JP2), Dicom, Webp, Emf, Wmf, Svg, PDF without the need for any other software or library.
     </p>
    </div>
   </div>
@@ -288,9 +291,9 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cad/java/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad/Aspose.CAD-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/cad/" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cad/javascript/" >}}
+{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad/Aspose.CAD-for-JavaScript" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/javascript/cad/" >}}
 {{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/cad/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
@@ -299,21 +302,23 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/cad" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/cad/" >}}
-{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cad/java/release-notes/" >}}
+{{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cad/javascript/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.CAD for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.CAD for JavaScript?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/java" pricingInformationLink="https://purchase.aspose.com/pricing/cad/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/cad/javascript" pricingInformationLink="https://purchase.aspose.com/pricing/cad/javascript" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD " description="Aspose.CAD offers individual native APIs for other popular development environments as listed below:" >}}
 
 {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" sdkName=".NET" >}}
+
+{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
 
 {{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" sdkName="Python" >}}
 

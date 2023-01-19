@@ -2,11 +2,11 @@
 title: Aspose.CAD Python API | Process and Convert CAD and BIM Files 
 weight: 950
 url: /python/ 
-description: CAD and BIM drawings processing library to open and convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX files to Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000, Dicom, Webp, Emf, Wmf, Svg, Pdf, Dwf, Dwfx, DXF, OBJ, FBX image formats within Python applications
+description: CAD and BIM drawings processing library to open and convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to Gif, Tiff, Jpeg, Png, Psd, Bmp, Jpeg2000, Dicom, Webp, Emf, Wmf, Svg, Pdf, Dwf, Dwfx, DXF, OBJ, FBX image formats within Python applications
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Python Conversion APIs for CAD and BIM files" h2="Convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX documents to raster and vector image formats including PDF without any CAD software." logoImageSrc="https://products.aspose.cloud/headers/aspose_cad-for-python.svg" pfName="Aspose.CAD" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cad/python" >}}
+{{< blocks/products/pf/upper-banner h1="Python Conversion APIs for CAD and BIM files" h2="Convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP documents to raster and vector image formats including PDF without any CAD software." logoImageSrc="https://products.aspose.cloud/headers/aspose_cad-for-python.svg" pfName="Aspose.CAD" subTitlepfName="for Python" downloadUrl="https://downloads.aspose.com/cad/python" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for Python" >}}
 
@@ -14,7 +14,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.CAD for Python is an advanced CAD and BIM drawings conversion API without any software dependencies. It allows developers the mpdification, conversion and export of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX files to vector and raster image formats. During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
+ Aspose.CAD for Python is an advanced CAD and BIM drawings conversion API without any software dependencies. It allows developers the mpdification, conversion and export of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES, CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to vector and raster image formats. During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
