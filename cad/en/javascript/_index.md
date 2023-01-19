@@ -23,7 +23,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of the main conversion and rendering capabilities of API." >}}
-<div class="diagram1 d1-java">
+<div class="diagram1 d1-js">
  <div class="d1-row">
   <div class="d1-col d1-left">
   </div>
@@ -72,7 +72,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD for JavaScript supports the ES1 and above." >}}
-<div class="diagram1 d1-java">
+<div class="diagram1 d1-js">
  <div class="d1-row">
   <div class="d1-col d1-left">
   </div>
@@ -81,7 +81,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
    <header style="padding-left: 0px;">
     <i class="fa fa-cogs">
     </i>
-    JavaScript and TypeScript frameworks
+    JavaScript frameworks
    </header>
    <ul>
     <li>
@@ -92,6 +92,9 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     </li>
     <li>
      Vue
+    </li>
+	<li>
+     Vanilla TypeScript
     </li>
    </ul>
   </div>
@@ -118,7 +121,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/javascript/supported-file-formats/)  are listed below." >}}
-<div class="diagram1 d2 d1-java">
+<div class="diagram1 d2 d1-js">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header>
