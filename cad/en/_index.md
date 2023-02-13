@@ -8,7 +8,24 @@ description: Build applications to process & convert CAD and BIM drawing files v
 {{< blocks/products/pf/main-wrap-class >}}
 {{< blocks/products/pf/upper-banner h1="CAD and BIM File Format Solution" h2="Convert DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT(HPGL), OBJ, SVG, DXB, FBX and other CAD and BIM drawing files to PDF, WEBP, PNG, PSD and other Vector and Raster Images without any CAD software dependencies." logoImageSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/headers/aspose_cad-brand.svg" imageAlt="Aspose.CAD Product Family" >}}
 
+
 {{< blocks/products/pf/main-container >}}
+
+{{< blocks/products/pf/product-card-row title="Aspose.CAD Feature Highlights" >}}
+
+{{< blocks/products/pf/product pfName="Images for " title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.com/cad/viewer" >}}
+Prepare image scatches from your CAD drawings such as FBX, SVG, CF2, DXB, DGN and other file formats via various programming languages.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Export and " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.com/cad/conversion" >}}
+Easily convert DWG, DXF, SVG and other drawings and BIM models to many other popular file formats on cross-platform API.
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Generate " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.com/cad/watermark" >}}
+Put Watermark to your CAD and BIM drawings of STL, OBJ, DWF and other formats.
+{{< /blocks/products/pf/product >}}
+
+
 {{< blocks/products/pf/product-card-row title="Aspose.CAD High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.CAD for " title=".NET" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
