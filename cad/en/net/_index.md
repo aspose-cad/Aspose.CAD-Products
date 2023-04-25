@@ -280,7 +280,7 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
 
 {{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-java.svg" sdkName="Java" >}}
 
-{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" sdkName="Python" >}}
+{{< blocks/products/pf/offers-section-item link="/cad/python-net/" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" sdkName="Python" >}}
 
 {{< blocks/products/pf/offers-section-item link="/cad/jasperreports/" imgSrc="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg" sdkName="JasperReports" >}}
 

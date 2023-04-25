@@ -19,11 +19,11 @@ Targets Asp.NET Web API, Windows Forms, Unity, Blazor, UWP, WPF, WCF or any type
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="../cad/aspose_cad-for-js.svg" productLink="/cad/javascript/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="../cad/aspose_cad-for-js.svg" productLink="/cad/javascript-net/" >}}
 Export various CAD and BIM drawing file into raster and vector format files via WebAssembly for JavaScript or TypeScript. Library can run inside Angular, Vue, React applications and through vanilla JavaScript or TypeScript code.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python-net/" >}}
 Python APIs for applications based on Python 3.9 or later.
 {{< /blocks/products/pf/product >}}
 

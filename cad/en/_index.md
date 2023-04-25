@@ -36,7 +36,7 @@ Process CAD files on desktop, native and web applications based on ASP.NET MVC/A
 CAD and BIM drawings conversion API to work with any Java SE or EE based application. Select specific layers or layouts to convert to PDF, PNG or other vector and raster image file formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="cad/aspose_cad-for-js.svg" productLink="/cad/javascript/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="cad/aspose_cad-for-js.svg" productLink="/cad/javascript-net/" >}}
 Export various CAD and BIM drawing file into raster and vector format files via WebAssembly for JavaScript or TypeScript. Library can run inside Angular, Vue, React applications and through vanilla JavaScript or TypeScript code.
 {{< /blocks/products/pf/product >}}
 
@@ -44,7 +44,7 @@ Export various CAD and BIM drawing file into raster and vector format files via 
 Export reports into various CAD and other vector format files from JasperReports.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python-net/" >}}
 Export various CAD and BIM drawing file into raster and vector format files via Python.
 {{< /blocks/products/pf/product >}}
 
