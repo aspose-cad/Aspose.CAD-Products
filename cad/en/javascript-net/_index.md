@@ -6,11 +6,11 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="JavaScript AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="../cad/aspose_cad-for-js.svg" pfName="Aspose.CAD" subTitlepfName="for JavaScript" downloadUrl="https://releases.aspose.com/cad/javascript-net" >}}
+{{< blocks/products/pf/upper-banner h1="JavaScript AutoCAD Conversion APIs" h2="Convert DWG, DXF, STL documents to PDF & raster image formats without any CAD software." logoImageSrc="aspose_cad-for-js.svg" pfName="Aspose.CAD" subTitlepfName="for JavaScript" downloadUrl="https://releases.aspose.com/cad/javascript-net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="for JavaScript" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="../cad/aspose_cad_families-javascript.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/javascript-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/javascript-net/" installationsDocsLink="https://docs.aspose.com/cad/javascript-net/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" npmRepoLink="https://www.npmjs.com/package/aspose-cad" directDownloadLink="https://releases.aspose.com/cad/javascript-net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="aspose_cad_families-javascript.svg" liveDemosLink="https://products.aspose.app/cad/family" PricingLink="https://purchase.aspose.com/pricing/cad/javascript-net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/cad/javascript-net/" installationsDocsLink="https://docs.aspose.com/cad/javascript-net/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="" npmRepoLink="https://www.npmjs.com/package/aspose-cad" directDownloadLink="https://releases.aspose.com/cad/javascript-net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -53,7 +53,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="JavaScript CAD API" src="../cad/aspose_cad-for-js.svg"/>
+  <img width="70" height="75" alt="JavaScript CAD API" src="aspose_cad-for-js.svg"/>
   <header>
    Aspose.CAD
   </header>
@@ -102,7 +102,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="CAD drawings JavaScript Library" src="../cad/aspose_cad-for-js.svg" />
+  <img width="70" height="75" alt="CAD drawings JavaScript Library" src="aspose_cad-for-js.svg" />
   <header>
    Aspose.CAD
   </header>
@@ -188,7 +188,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img width="70" height="75" alt="JavaScript CAD Processing APIs" src="../cad/aspose_cad-for-js.svg" />
+  <img width="70" height="75" alt="JavaScript CAD Processing APIs" src="aspose_cad-for-js.svg" />
   <header>
    Aspose.CAD
   </header>
