@@ -21,8 +21,8 @@ Prepare image scatches from your CAD drawings such as FBX, SVG, CF2, DXB, DGN an
 Easily convert DWG, DXF, SVG and other drawings and BIM models to many other popular file formats on cross-platform API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Generate " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.com/cad/watermark" >}}
-Put Watermark to your CAD and BIM drawings of STL, OBJ, DWF and other formats.
+{{< blocks/products/pf/product pfName="Import bitmap as " title="Paper to CAD" imgSrc="https://products.aspose.app/cad/img/apps/aspose_papertocad-app.png" productLink="https://products.aspose.com/cad/paper-to-cad" >}}
+Import CAD or BIM model from bitmap image by utilizing AI enhanced vectization algorithm and obtain a result as STL, OBJ, DWF or any other drawing format.
 {{< /blocks/products/pf/product >}}
 
 
@@ -36,7 +36,7 @@ Process CAD files on desktop, native and web applications based on ASP.NET MVC/A
 CAD and BIM drawings conversion API to work with any Java SE or EE based application. Select specific layers or layouts to convert to PDF, PNG or other vector and raster image file formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="cad/aspose_cad-for-js.svg" productLink="/cad/javascript-net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="JavaScript" imgSrc="https://products.aspose.app/cad/img/platforms/aspose_cad-for-javascript-net.svg" productLink="/cad/javascript-net/" >}}
 Export various CAD and BIM drawing file into raster and vector format files via WebAssembly for JavaScript or TypeScript. Library can run inside Angular, Vue, React applications and through vanilla JavaScript or TypeScript code.
 {{< /blocks/products/pf/product >}}
 
@@ -44,8 +44,8 @@ Export various CAD and BIM drawing file into raster and vector format files via 
 Export reports into various CAD and other vector format files from JasperReports.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://websites.fileformat.com/aspose/cloud/images/aspose_cad-for-cloud.svg" productLink="/cad/python-net/" >}}
-Export various CAD and BIM drawing file into raster and vector format files via Python.
+{{< blocks/products/pf/product pfName="Aspose.CAD for " title="Python" imgSrc="https://products.aspose.app/cad/img/platforms/aspose_cad-for-python-net.svg" productLink="/cad/python-net/" >}}
+Export various CAD and BIM drawing file into raster and vector format files via Python as a wrapper for .NET.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.com/cad/family" innerText="View All High Code APIs" >}}
@@ -80,8 +80,12 @@ Convert CAD files such as  DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, C
 Don’t have AutoCAD installed? No problem. View your CAD and BIM drawing files from anywhere as an image representation. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD " title="Viewer 3D" imgSrc="https://products.aspose.app/cad/viewer3d/assets/images/aspose_threedviewer-app.png" productLink="https://products.aspose.app/cad/3d-viewer" >}}
-Looking to check and view your CAD image file online for free? No problem. Aspose.CAD 3D Viewer allows you open any CAD and BIM drawing file from anywhere as a regular web page with no cost. 
+{{< blocks/products/pf/product pfName="Aspose.CAD " title="Watermark" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_watermark-app.png" productLink="https://products.aspose.app/cad/watermark" >}}
+Looking how to put Watermark to your CAD and BIM drawings of STL, OBJ, DWF and other formats and export it into various bitmap or vector formats - Aspose.CAD Watermark free web application is at your service. 
+{{< /blocks/products/pf/product >}}
+
+{{< blocks/products/pf/product pfName="Aspose.CAD " title="Metadata" imgSrc="https://products.aspose.app/cad/img/apps/aspose_metadataeditor-app.png" productLink="https://products.aspose.app/cad/metadata-editor" >}}
+It is often needed to view or edit metadata for CAD or BIM drawing: DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX. It is possible to do on Aspose.CAD Metadata Editor - online free application. 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/cad/family" innerText="View All No Code Apps" >}}
