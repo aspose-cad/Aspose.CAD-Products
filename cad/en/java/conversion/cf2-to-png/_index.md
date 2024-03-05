@@ -78,7 +78,7 @@ In order to render CF2 to PNG, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="CF2 to PNG Java Conversion Source Code" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-CF2-to-png.java" >}}
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-cf2-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

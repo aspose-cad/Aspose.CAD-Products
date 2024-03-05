@@ -13,11 +13,7 @@ description: Sample Java conversion code for IFC format to TIFF file. Use this e
 
 {{% blocks/products/pf/agp/content h2="How to Convert IFC to TIFF Using Java" %}}
 
- In order to render IFC to TIFF, we’ll use
- [Aspose.CAD for Java](https://products.aspose.com/cad/java) 
- API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
- [Aspose Maven Repository](https://repository.aspose.com/cad/) 
- and install it within your Maven-based project by adding the following configurations to the pom.xml.
+In order to render IFC to TIFF, we’ll use [Aspose.CAD for Java](https://products.aspose.com/cad/java) API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from [Aspose Maven Repository](https://repository.aspose.com/cad/) and install it within your Maven-based project by adding the following configurations to the pom.xml.
 
 {{% blocks/products/pf/agp/code-block title="Repository" offSpacer="true" %}}
 

@@ -13,13 +13,7 @@ description: Sample code for OBJ to PNG C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="How to Convert OBJ to PNG Using C#" %}}
 
- In order to convert OBJ to PNG, we’ll use
- [Aspose.CAD for .NET](https://products.aspose.com/cad/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cad) 
- package manager, search for
- Aspose.CAD 
- and install. You may also use the following command from the Package Manager Console.
+In order to convert OBJ to PNG, we’ll use [Aspose.CAD for .NET](https://products.aspose.com/cad/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cad) package manager, search for Aspose.CAD and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 

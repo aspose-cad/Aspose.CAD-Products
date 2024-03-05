@@ -60,7 +60,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows CF2 to GIF C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-CF2-to-gif.cs" >}}
+{{< gist "aspose-com-gists" "fa9ce3c2849df7748c9043e827afecf1" "convert-cf2-to-gif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
