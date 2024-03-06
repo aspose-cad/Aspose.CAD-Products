@@ -78,7 +78,7 @@ In order to render CF2 to BMP, we’ll use <a href="https://products.aspose.com/
 
 {{% blocks/products/pf/agp/code-block title="CF2 to BMP Java Conversion Source Code" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-CF2-to-bmp.java" >}}
+{{< gist "aspose-com-gists" "2789628881df93e0012cfad00bbc73e1" "convert-cff2-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

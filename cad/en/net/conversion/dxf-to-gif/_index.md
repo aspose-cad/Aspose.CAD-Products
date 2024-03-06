@@ -1,7 +1,7 @@
 ---
-title: Convert DXF to GIF via C# 
-weight: 920
-url: /net/conversion/dxf-to-gif/ 
+title: Convert DXF to GIF via C#
+weight: 480
+url: /net/conversion/dxf-to-gif/
 description: Sample code for DXF to GIF C# conversion. Use API example code for batch DXF files to GIF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -13,13 +13,7 @@ description: Sample code for DXF to GIF C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="How to Convert DXF to GIF Using C#" %}}
 
- In order to convert DXF to GIF, we’ll use
- [Aspose.CAD for .NET](https://products.aspose.com/cad/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.cad) 
- package manager, search for
- Aspose.CAD 
- and install. You may also use the following command from the Package Manager Console.
+In order to convert DXF to GIF, we’ll use [Aspose.CAD for .NET](https://products.aspose.com/cad/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open [NuGet](https://www.nuget.org/packages/aspose.cad) package manager, search for Aspose.CAD and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
@@ -39,14 +33,14 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET programmers can easily load & convert DXF files to GIF in just a few lines of code.
+.NET programmers can easily load & convert DXF files to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load DXF file with Image.Load method
-1.  Set an object of CadRasterizationOptions with page height & width
-1.  Create an instance of GifOptions class and set its VectorRasterizationOptions property
-1.  Call Image.Save method while passing the resultant file path & object of GifOptions
+1. Load DXF file with Image.Load method
+1. Set an object of CadRasterizationOptions with page height & width
+1. Create an instance of GifOptions class and set its VectorRasterizationOptions property
+1. Call Image.Save method while passing the resultant file path & object of GifOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -54,7 +48,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion code, make sure that you have the following prerequisites.
+Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -73,23 +67,26 @@ PM> Install-Package Aspose.CAD
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert DXF to GIF" sectionDescription="Check our live demos for [DXF to GIF conversion](https://products.aspose.app/cad/conversion/dxf-to-gif) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DXF file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GIF file." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
- A standalone CAD File Processing Library with the ability to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from AutoCAD files as well as track the file conversion process with ease.
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DXF file and hit the \"Convert\" button." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GIF file." >}}
 
+    {{% blocks/products/pf/agp/content h2="" isGrey="true" %}}
 
+Aspose.CAD for .NET allows you to read, manipulate, process and export any CAD or BIM drawing file into various vector and raster formats without using AutoCAD or any other additional software. It's multi-thread safe, cross-OS compatible, allows you to track export progress, and handle individual layers and layouts. Developers can select and convert specific layouts and layers from AutoCAD files and easily track the file conversion process.
 
     {{% /blocks/products/pf/agp/content %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
@@ -98,27 +95,44 @@ DXF, Drawing Interchange Format, or Drawing Exchange Format, is a tagged data re
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="gif" readMoreLink="https://docs.fileformat.com/image/gif/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}
 A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DXF into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dxf-to-bmp/" name="DXF TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dxf-to-jpeg/" name="DXF TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dxf-to-pdf/" name="DXF TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dxf-to-png/" name="DXF TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dxf-to-tiff/" name="DXF TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-ifc/" name="DXF TO IFC" description="Industry Foundation Classes File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-fbx/" name="DXF TO FBX" description="Filmbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-stp/" name="DXF TO STP" description="Standard for the Exchange of Product model data" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-svg/" name="DXF TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-dwf/" name="DXF TO DWF" description="Design Web Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-3ds/" name="DXF TO 3DS" description="3D Studio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-u3d/" name="DXF TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-dwfx/" name="DXF TO DWFX" description="Design Web Format XPS" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-obj/" name="DXF TO OBJ" description="Object file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-cgm/" name="DXF TO CGM" description="Computer Graphics Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-glb/" name="DXF TO GLB" description="Binary glTF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-gltf/" name="DXF TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-webp/" name="DXF TO WEBP" description="Pronounced WEPPY" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-emf/" name="DXF TO EMF" description="Enhanced Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-wmf/" name="DXF TO WMF" description="Windows Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-dicom/" name="DXF TO DICOM" description="Digital Imaging and Communications in Medicine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-pdf/" name="DXF TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-psd/" name="DXF TO PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-tiff/" name="DXF TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-jpeg/" name="DXF TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-jpeg2000/" name="DXF TO JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-png/" name="DXF TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dxf-to-bmp/" name="DXF TO BMP" description="Bitmap Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}
