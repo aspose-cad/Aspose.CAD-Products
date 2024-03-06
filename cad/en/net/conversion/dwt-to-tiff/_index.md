@@ -1,7 +1,7 @@
 ---
-title: Convert DWT to TIFF via C# 
-weight: 890
-url: /net/conversion/dwt-to-tiff/ 
+title: Convert DWT to TIFF via C#
+weight: 2160
+url: /net/conversion/dwt-to-tiff/
 description: Sample code for DWT to TIFF C# conversion. Use API example code for batch DWT files to TIFF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -33,14 +33,14 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET programmers can easily load & convert DWT files to TIFF in just a few lines of code.
+.NET programmers can easily load & convert DWT files to TIFF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load DWT file with Image.Load method
-1.  Set an object of CadRasterizationOptions with page height & width
-1.  Create an instance of TiffOptions class and set its VectorRasterizationOptions property
-1.  Call Image.Save method while passing the resultant file path & object of TiffOptions
+1. Load DWT file with Image.Load method
+1. Set an object of CadRasterizationOptions with page height & width
+1. Create an instance of TiffOptions class and set its VectorRasterizationOptions property
+1. Call Image.Save method while passing the resultant file path & object of TiffOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion code, make sure that you have the following prerequisites.
+Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,23 +67,26 @@ PM> Install-Package Aspose.CAD
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert DWT to TIFF" sectionDescription="Check our live demos for [DWT to TIFF conversion](https://products.aspose.app/cad/conversion/dwt-to-tiff) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DWT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant TIFF file." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
- A standalone CAD File Processing Library with the ability to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from AutoCAD files as well as track the file conversion process with ease.
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DWT file and hit the \"Convert\" button." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant TIFF file." >}}
 
+    {{% blocks/products/pf/agp/content h2="" isGrey="true" %}}
 
+Aspose.CAD for .NET allows you to read, manipulate, process and export any CAD or BIM drawing file into various vector and raster formats without using AutoCAD or any other additional software. It's multi-thread safe, cross-OS compatible, allows you to track export progress, and handle individual layers and layouts. Developers can select and convert specific layouts and layers from AutoCAD files and easily track the file conversion process.
 
     {{% /blocks/products/pf/agp/content %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
@@ -92,28 +95,45 @@ A DWT file is an AutoCAD drawing template file that is used as starter for creat
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="tiff" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
-TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is extensible and has underwent several revisions that allows the inclusion of an unlimited amount of private or special-purpose information. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="TIFF" readMoreLink="https://docs.fileformat.com/image/tiff/" >}}
+TIFF or TIF, Tagged Image File Format, represents raster images that are meant for usage on a variety of devices that comply with this file format standard. It is capable of describing bilevel, grayscale, palette-color and full-color image data in several color spaces. It supports lossy as well as lossless compression schemes to choose between space and time for applications using the format. The format is not machine dependent and is free from bounds like processor, operating system, or file systems.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DWT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-bmp/" name="DWT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-dxf/" name="DWT TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-gif/" name="DWT TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-jpeg/" name="DWT TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-pdf/" name="DWT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dwt-to-png/" name="DWT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-dxf/" name="DWT TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-ifc/" name="DWT TO IFC" description="Industry Foundation Classes File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-fbx/" name="DWT TO FBX" description="Filmbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-stp/" name="DWT TO STP" description="Standard for the Exchange of Product model data" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-svg/" name="DWT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-dwf/" name="DWT TO DWF" description="Design Web Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-3ds/" name="DWT TO 3DS" description="3D Studio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-u3d/" name="DWT TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-dwfx/" name="DWT TO DWFX" description="Design Web Format XPS" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-obj/" name="DWT TO OBJ" description="Object file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-cgm/" name="DWT TO CGM" description="Computer Graphics Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-glb/" name="DWT TO GLB" description="Binary glTF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-gltf/" name="DWT TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-webp/" name="DWT TO WEBP" description="Pronounced WEPPY" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-emf/" name="DWT TO EMF" description="Enhanced Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-wmf/" name="DWT TO WMF" description="Windows Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-dicom/" name="DWT TO DICOM" description="Digital Imaging and Communications in Medicine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-pdf/" name="DWT TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-psd/" name="DWT TO PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-jpeg/" name="DWT TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-jpeg2000/" name="DWT TO JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-png/" name="DWT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-gif/" name="DWT TO GIF" description="Graphics Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dwt-to-bmp/" name="DWT TO BMP" description="Bitmap Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}

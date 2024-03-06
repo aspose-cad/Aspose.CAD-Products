@@ -1,7 +1,7 @@
 ---
-title: Convert PLT to GIF via C# 
-weight: 510
-url: /net/conversion/plt-to-gif/ 
+title: Convert PLT to GIF via C#
+weight: 2450
+url: /net/conversion/plt-to-gif/
 description: Sample code for PLT to GIF C# conversion. Use API example code for batch PLT files to GIF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -33,14 +33,14 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET programmers can easily load & convert PLT files to GIF in just a few lines of code.
+.NET programmers can easily load & convert PLT files to GIF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load PLT file with Image.Load method
-1.  Set an object of CadRasterizationOptions with page height & width
-1.  Create an instance of GifOptions class and set its VectorRasterizationOptions property
-1.  Call Image.Save method while passing the resultant file path & object of GifOptions
+1. Load PLT file with Image.Load method
+1. Set an object of CadRasterizationOptions with page height & width
+1. Create an instance of GifOptions class and set its VectorRasterizationOptions property
+1. Call Image.Save method while passing the resultant file path & object of GifOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion code, make sure that you have the following prerequisites.
+Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,53 +67,73 @@ PM> Install-Package Aspose.CAD
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert PLT to GIF" sectionDescription="Check our live demos for [PLT to GIF conversion](https://products.aspose.app/cad/conversion/plt-to-gif) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PLT file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GIF file." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
- A standalone CAD File Processing Library with the ability to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from AutoCAD files as well as track the file conversion process with ease.
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your PLT file and hit the \"Convert\" button." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant GIF file." >}}
 
+    {{% blocks/products/pf/agp/content h2="" isGrey="true" %}}
 
+Aspose.CAD for .NET allows you to read, manipulate, process and export any CAD or BIM drawing file into various vector and raster formats without using AutoCAD or any other additional software. It's multi-thread safe, cross-OS compatible, allows you to track export progress, and handle individual layers and layouts. Developers can select and convert specific layouts and layers from AutoCAD files and easily track the file conversion process.
 
     {{% /blocks/products/pf/agp/content %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="PLT" readMoreLink="https://docs.fileformat.com/cad/plt/" >}}
-The PLT file format is a vector-based plotter file introduced by Autodesk, Inc. and contains information for a certain CAD file. Plotting details require accuracy and precision in production, and usage of PLT file guarantee this as all images are printed using lines instead of dots. The format is based on the HPGL file format which is used for sending information to plotter printers. PLT files can be viewed with its original applications i.e. Autodesk's AutoCAD, but there are other applications as well that can be used to manipulate these files such as CorelDRAW Graphics Suite. A number of applications and APIs support conversion of PLT file format to DXF, PDF, JPEG, TIFF, PNG, BMP, CGM, SVG, PS and PCL.
+The PLT file format is a vector-based plotter file introduced by Autodesk, Inc. and contains information for a certain CAD file. Plotting details require accuracy and precision in production, and usage of PLT file guarantee this as all images are printed using lines instead of dots. The format is based on the HPGL file format which is used for sending information to plotter printers. PLT files can be viewed with its original applications i.e. Autodesk’s AutoCAD, but there are other applications as well that can be used to manipulate these files such as CorelDRAW Graphics Suite. A number of applications and APIs support conversion of PLT file format to DXF, PDF, JPEG, TIFF, PNG, BMP, CGM, SVG, PS and PCL.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="gif" readMoreLink="https://docs.fileformat.com/image/gif/" >}}
+        {{< blocks/products/pf/agp/about-file-text fileFormat="GIF" readMoreLink="https://docs.fileformat.com/image/gif/" >}}
 A GIF or Graphical Interchange Format is a type of highly compressed image. Owned by Unisys, GIF uses the LZW compression algorithm that does not degrade the image quality. For each image GIF typically allow up to 8 bits per pixel and up to 256 colours are allowed across the image. In contrast to a JPEG image, which can display up to 16 million colours and fairly touches the limits of the human eye. Back when the internet emerged, GIFs remained the best choice because they required low bandwidth and compatible for the graphics that consume solid areas of colour. An animated GIF combines numerous images or frames into a single file and displays them in a sequence to generate an animated clip or a short video. The colour limitations are up to 256 for each frame and are likely to be the least suitable for reproducing other images and photographs with colour gradient.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert PLT into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-bmp/" name="PLT TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-dxf/" name="PLT TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-jpeg/" name="PLT TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-pdf/" name="PLT TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-png/" name="PLT TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/plt-to-tiff/" name="PLT TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-dxf/" name="PLT TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-ifc/" name="PLT TO IFC" description="Industry Foundation Classes File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-fbx/" name="PLT TO FBX" description="Filmbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-stp/" name="PLT TO STP" description="Standard for the Exchange of Product model data" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-svg/" name="PLT TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-dwf/" name="PLT TO DWF" description="Design Web Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-3ds/" name="PLT TO 3DS" description="3D Studio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-u3d/" name="PLT TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-dwfx/" name="PLT TO DWFX" description="Design Web Format XPS" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-obj/" name="PLT TO OBJ" description="Object file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-cgm/" name="PLT TO CGM" description="Computer Graphics Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-glb/" name="PLT TO GLB" description="Binary glTF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-gltf/" name="PLT TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-webp/" name="PLT TO WEBP" description="Pronounced WEPPY" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-emf/" name="PLT TO EMF" description="Enhanced Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-wmf/" name="PLT TO WMF" description="Windows Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-dicom/" name="PLT TO DICOM" description="Digital Imaging and Communications in Medicine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-pdf/" name="PLT TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-psd/" name="PLT TO PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-tiff/" name="PLT TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-jpeg/" name="PLT TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-jpeg2000/" name="PLT TO JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-png/" name="PLT TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/plt-to-bmp/" name="PLT TO BMP" description="Bitmap Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}

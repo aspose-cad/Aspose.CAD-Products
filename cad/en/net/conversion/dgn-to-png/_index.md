@@ -1,7 +1,7 @@
 ---
-title: Convert DGN to PNG via C# 
-weight: 1270
-url: /net/conversion/dgn-to-png/ 
+title: Convert DGN to PNG via C#
+weight: 720
+url: /net/conversion/dgn-to-png/
 description: Sample code for DGN to PNG C# conversion. Use API example code for batch DGN files to PNG conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -33,14 +33,14 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET programmers can easily load & convert DGN files to PNG in just a few lines of code.
+.NET programmers can easily load & convert DGN files to PNG in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load DGN file with Image.Load method
-1.  Set an object of CadRasterizationOptions with page height & width
-1.  Create an instance of PngOptions class and set its VectorRasterizationOptions property
-1.  Call Image.Save method while passing the resultant file path & object of PngOptions
+1. Load DGN file with Image.Load method
+1. Set an object of CadRasterizationOptions with page height & width
+1. Create an instance of PngOptions class and set its VectorRasterizationOptions property
+1. Call Image.Save method while passing the resultant file path & object of PngOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion code, make sure that you have the following prerequisites.
+Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,53 +67,73 @@ PM> Install-Package Aspose.CAD
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert DGN to PNG" sectionDescription="Check our live demos for [DGN to PNG conversion](https://products.aspose.app/cad/conversion/dgn-to-png) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DGN file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant PNG file." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
- A standalone CAD File Processing Library with the ability to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from AutoCAD files as well as track the file conversion process with ease.
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your DGN file and hit the \"Convert\" button." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant PNG file." >}}
 
+    {{% blocks/products/pf/agp/content h2="" isGrey="true" %}}
 
+Aspose.CAD for .NET allows you to read, manipulate, process and export any CAD or BIM drawing file into various vector and raster formats without using AutoCAD or any other additional software. It's multi-thread safe, cross-OS compatible, allows you to track export progress, and handle individual layers and layouts. Developers can select and convert specific layouts and layers from AutoCAD files and easily track the file conversion process.
 
     {{% /blocks/products/pf/agp/content %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="DGN" readMoreLink="https://docs.fileformat.com/cad/dgn/" >}}
-DGN, Design, files are drawings created by and supported by CAD applications such as MicroStation and Intergraph Interactive Graphics Design System. It is used for creating and saving designs for construction projects such as highways, bridges, and buildings. The format is similar to Autodesk's DWG file format and is considered its competitor. DNG files can either be saved as Intergraph Standard File Format or V8 DGN. DGN can be converted to several other formats such as DWG, BMP, JPEG, PDF, GIF and others. It can be opened with Autodesk AutoCAD, Bentley View and Bentley Systems MicroStation in addition to other software applications such as Corel PaintShop Photo Pro and IMSI TurboCAD Deluxe versions.
+A file with a .dgn (Design) extension is a drawing file created by and supported by CAD applications such as MicroStation and Intergraph Interactive Graphics Design System. It is used for creating and saving designs for construction projects such as highways, bridges, and buildings. The format is similar to Autodesk’s DWG file format and is considered its competitor. DNG files can either be saved as Intergraph Standard File Format or V8 DGN. DGN can be converted to several other formats such as DWG, BMP, JPEG, PDF, GIF and others. It can be opened with Autodesk AutoCAD, Bentley View and Bentley Systems MicroStation in addition to other software applications such as Corel PaintShop Photo Pro and IMSI TurboCAD Deluxe versions.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="png" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Portable Network Graphics, refers to a type of raster image file format that use loseless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports loseless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the mostly used image file format. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of installation.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
+A PNG (Portable Network Graphics) file is a raster image file format that uses lossless compression. This file format was created as a replacement of Graphics Interchange Format (GIF) and has no copyright limitations. However, PNG file format does not support animations. PNG file format supports lossless image compression that makes it popular among its users. With the passage of time, PNG has evolved as one of the widely used image file formats.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert DGN into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-bmp/" name="DGN TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-dxf/" name="DGN TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-gif/" name="DGN TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-jpeg/" name="DGN TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-pdf/" name="DGN TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/dgn-to-tiff/" name="DGN TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-dxf/" name="DGN TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-ifc/" name="DGN TO IFC" description="Industry Foundation Classes File" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-fbx/" name="DGN TO FBX" description="Filmbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-stp/" name="DGN TO STP" description="Standard for the Exchange of Product model data" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-svg/" name="DGN TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-dwf/" name="DGN TO DWF" description="Design Web Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-3ds/" name="DGN TO 3DS" description="3D Studio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-u3d/" name="DGN TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-dwfx/" name="DGN TO DWFX" description="Design Web Format XPS" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-obj/" name="DGN TO OBJ" description="Object file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-cgm/" name="DGN TO CGM" description="Computer Graphics Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-glb/" name="DGN TO GLB" description="Binary glTF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-gltf/" name="DGN TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-webp/" name="DGN TO WEBP" description="Pronounced WEPPY" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-emf/" name="DGN TO EMF" description="Enhanced Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-wmf/" name="DGN TO WMF" description="Windows Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-dicom/" name="DGN TO DICOM" description="Digital Imaging and Communications in Medicine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-pdf/" name="DGN TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-psd/" name="DGN TO PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-tiff/" name="DGN TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-jpeg/" name="DGN TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-jpeg2000/" name="DGN TO JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-gif/" name="DGN TO GIF" description="Graphics Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/dgn-to-bmp/" name="DGN TO BMP" description="Bitmap Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}

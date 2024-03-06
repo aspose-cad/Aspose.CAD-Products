@@ -1,7 +1,7 @@
 ---
-title: Convert IFC to PDF via C# 
-weight: 680
-url: /net/conversion/ifc-to-pdf/ 
+title: Convert IFC to PDF via C#
+weight: 910
+url: /net/conversion/ifc-to-pdf/
 description: Sample code for IFC to PDF C# conversion. Use API example code for batch IFC files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
@@ -33,14 +33,14 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- .NET programmers can easily load & convert IFC files to PDF in just a few lines of code.
+.NET programmers can easily load & convert IFC files to PDF in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load IFC file with Image.Load method
-1.  Set an object of CadRasterizationOptions with page height & width
-1.  Create an instance of PdfOptions class and set its VectorRasterizationOptions property
-1.  Call Image.Save method while passing the resultant file path & object of PdfOptions
+1. Load IFC file with Image.Load method
+1. Set an object of CadRasterizationOptions with page height & width
+1. Create an instance of PdfOptions class and set its VectorRasterizationOptions property
+1. Call Image.Save method while passing the resultant file path & object of PdfOptions
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -48,7 +48,7 @@ PM> Install-Package Aspose.CAD
 
 {{% blocks/products/pf/agp/text %}}
 
- Before running the .NET conversion code, make sure that you have the following prerequisites.
+Before running the .NET conversion code, make sure that you have the following prerequisites.
 
 {{% /blocks/products/pf/agp/text %}}
 
@@ -67,53 +67,72 @@ PM> Install-Package Aspose.CAD
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
 
 <!-- aboutfile Starts -->
 
 {{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert IFC to PDF" sectionDescription="Check our live demos for [IFC to PDF conversion](https://products.aspose.app/cad/conversion/ifc-to-pdf) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your IFC file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant PDF file." >}}
+{{< /blocks/products/pf/agp/demobox >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
+{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
 
- A standalone CAD File Processing Library with the ability to convert DWG, DWF and DXF files to high-quality PDF and raster images. Developers can select and convert specific layouts and layers from AutoCAD files as well as track the file conversion process with ease.
+    {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your IFC file and hit the \"Convert\" button." >}}
+    {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant PDF file." >}}
 
+    {{% blocks/products/pf/agp/content h2="" isGrey="true" %}}
 
+Aspose.CAD for .NET allows you to read, manipulate, process and export any CAD or BIM drawing file into various vector and raster formats without using AutoCAD or any other additional software. It's multi-thread safe, cross-OS compatible, allows you to track export progress, and handle individual layers and layouts. Developers can select and convert specific layouts and layers from AutoCAD files and easily track the file conversion process.
 
     {{% /blocks/products/pf/agp/content %}}
+
+{{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/about-file-section >}}
 
         {{< blocks/products/pf/agp/about-file-text fileFormat="IFC" readMoreLink="https://docs.fileformat.com/cad/ifc/" >}}
-Files with IFC extension refer to  Industry Foundation Classes (IFC) file format that establishes international standards to import and export building objects and their properties. This file format provides interoperability between different software applications. Specifications for this file format are developed and maintained by buildingSMART International as its Data Standard. The ultimate objective of IFC file format is to improve communication, productivity, delivery time and quality throughout the life cycle of a building. Due to the established standards for common objects in the building industry, it reduces the loss of information during transmission from one application to another. IFC can hold data for geometry, calculation, quantities, facility management, pricing etc. for many different professions (architect, electrical, HVAC, structural, terrain etc.).
+Files with IFC extension refer to Industry Foundation Classes (IFC) file format that establishes international standards to import and export building objects and their properties. This file format provides interoperability between different software applications. Specifications for this file format are developed and maintained by buildingSMART International as its Data Standard. The ultimate objective of IFC file format is to improve communication, productivity, delivery time and quality throughout the life cycle of a building. Due to the established standards for common objects in the building industry, it reduces the loss of information during transmission from one application to another. IFC can hold data for geometry, calculation, quantities, facility management, pricing etc. for many different professions (architect, electrical, HVAC, structural, terrain etc.).
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
-        {{< blocks/products/pf/agp/about-file-text fileFormat="pdf" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
-Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. PDF files can be opened in Adobe Acrobat Reader/Writer as well in most modern browsers like Chrome, Safari, Firefox via extensions/plug-ins. Most of the commercially available software suites also offer conversion of their documents to PDF file format without the requirement of any additional software component. Thus, PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
+        {{< blocks/products/pf/agp/about-file-text fileFormat="PDF" readMoreLink="https://docs.fileformat.com/pdf/" >}}
+Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. The PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
 
     {{< /blocks/products/pf/agp/about-file-section >}}
 
-{{< /blocks/products/pf/agp/demobox >}}
-
 <!-- aboutfile Ends -->
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert IFC into many other file formats including few listed below." >}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-bmp/" name="IFC TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-dxf/" name="IFC TO DXF" description="Drawing Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-gif/" name="IFC TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-jpeg/" name="IFC TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-png/" name="IFC TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/cad/net/conversion/ifc-to-tiff/" name="IFC TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-dxf/" name="IFC TO DXF" description="Drawing Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-fbx/" name="IFC TO FBX" description="Filmbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-stp/" name="IFC TO STP" description="Standard for the Exchange of Product model data" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-svg/" name="IFC TO SVG" description="Scalable Vector Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-dwf/" name="IFC TO DWF" description="Design Web Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-3ds/" name="IFC TO 3DS" description="3D Studio" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-u3d/" name="IFC TO U3D" description="Universal 3D" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-dwfx/" name="IFC TO DWFX" description="Design Web Format XPS" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-obj/" name="IFC TO OBJ" description="Object file" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-cgm/" name="IFC TO CGM" description="Computer Graphics Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-glb/" name="IFC TO GLB" description="Binary glTF" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-gltf/" name="IFC TO GLTF" description="GL Transmission Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-webp/" name="IFC TO WEBP" description="Pronounced WEPPY" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-emf/" name="IFC TO EMF" description="Enhanced Windows Metafile" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-wmf/" name="IFC TO WMF" description="Windows Metafile Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-dicom/" name="IFC TO DICOM" description="Digital Imaging and Communications in Medicine" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-psd/" name="IFC TO PSD" description="Photoshop Document" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-tiff/" name="IFC TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-jpeg/" name="IFC TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-jpeg2000/" name="IFC TO JPEG2000" description="JPEG 2000" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-png/" name="IFC TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-gif/" name="IFC TO GIF" description="Graphics Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="/cad/net/conversion/ifc-to-bmp/" name="IFC TO BMP" description="Bitmap Image" >}}
+
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
-    
+
 {{< /blocks/products/pf/main-wrap-class >}}
