@@ -111,7 +111,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/java/supported-file-formats/)  are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="API [supported file formats](https://docs.aspose.com/cad/python-net/supported-file-formats/)  are listed below." >}}
 <div class="diagram1 d2 d1-python">
  <div class="d1-row">
   <div class="d1-col d1-left">
