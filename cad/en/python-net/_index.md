@@ -62,7 +62,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <em>
      for
     </em>
-    Java
+    Python
    </small>
   </footer>
  </div>
@@ -305,7 +305,7 @@ image.save(dir + "output.pdf", pdfOptions);
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/cad/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad/Aspose.CAD-for-Python" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/python-net/cad/" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/cad/python-net/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
@@ -316,7 +316,7 @@ image.save(dir + "output.pdf", pdfOptions);
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/cad/python-net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.CAD for Java?" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.CAD for Python?" tabId="success-stories" >}}
 {{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
 {{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
