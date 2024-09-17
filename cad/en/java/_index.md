@@ -193,7 +193,7 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced Java CAD�Library Features
+    Advanced Aspose.CAD Java SDK Features
    </h2>
    <p>
    </p>
