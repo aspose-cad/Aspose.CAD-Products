@@ -73,36 +73,52 @@ description: CAD format files processing and manipulation library API to create 
 
   <div class="diagram1 d2 d1-jasper">
    <div class="d1-row">
-    <div class="d1-col d1-left"></div>
-    <div class="d1-col d1-right">
-     <header>
-      <i class="fa fa-mail-forward">
-      </i>
-      Output Only
-     </header>
+    <div class="d1-col d1-left">
+     <header><i class="fa fa-long-arrow-down"></i>Input Only</header>
      <ul>
-      <li>
-       <b>
-        CAD and BIM:
-       </b>
-       DXF, DWF, DWFX, OBJ, FBX, PLT
-      </li>
-      <li>
-       <b>
-        Fixed Layout:
-       </b>
-       PDF, SVG, WMF, EMF
-      </li>
-      <li>
-       <b>
-        Raster Images:
-       </b>
-       PNG, BMP, TIFF, JPEG, GIF, DICOM, WEBP, JP2, PSD
-      </li>
+      <li>AutoCAD Drawing File (DWG) Releases 11, 12, 13, 14</li>
+      <li>AutoCAD Drawing File (DWG) 2000/2000i/2002</li>
+      <li>AutoCAD Drawing File (DWG) 2004/2005/2006</li>
+      <li>AutoCAD Drawing File (DWG) 2010/2011/2012</li>
+      <li>AutoCAD Drawing File (DWG) 2013/2014/2015/2016</li>
+      <li>Bentley Systems MicroStation Design File (DGN)</li>
+      <li>Industry Foundation Classes (IFC)</li>
+      <li>Stereolithography File (STL) - 3D model format used in 3D printing</li>
+      <li>AutoCAD Drawing Template (DWT)</li>
+      <li>Initial Graphics Exchange Specification (IGES)</li>
+      <li>Plotter File (PLT)</li>
+      <li>Common File Format 2 (CF2) - CAD format for die-cutting in packaging design</li>
+      <li>Hewlett-Packard Graphics Language (HPGL)</li>
+      <li>Printer Command Language (PCL)</li>
+      <li>3D Studio Mesh File (3DS)</li>
+      <li>Universal 3D File Format (U3D)</li>
+      <li>Computer Graphics Metafile (CGM)</li>
+      <li>COLLADA Digital Asset Exchange File (DAE)</li>
+      <li>Drawing Interchange Binary File (DXB)</li>
+     </ul>
+    </div>
+    <!--/left-->
+    <div class="d1-col d1-right">
+     <header><i class="fa fa-refresh"> </i> Bi-directional</header>
+     <ul>
+       <li>Autodesk Drawing Exchange Format (DXF)</li>
+       <li>AutoCAD Drawing Database File (DWG) Release 2015</li>
+       <li>Wavefront Object File (OBJ)</li>
+       <li>Filmbox Interchange File (FBX)</li>
+       <li>Design Web Format (DWF)</li>
+       <li>Design Web Format XPS (DWFX)</li>
+       <li>Scalable Vector Graphics (SVG)</li>
+       <li>Standard for the Exchange of Product Model Data (STEP/STP)</li>
+       <li>GL Transmission Format (GLB/GLTF) - 3D model file format</li>
+     </ul>
+     <header><i class="fa fa-mail-forward"></i>Output Only</header>
+     <ul>
+      <li><b>Fixed Vector Layout:</b> PDF, EMF, WMF</li>
+      <li><b>Raster Images:</b> PNG, BMP, TIFF, JPEG, JP2, PSD, DICOM, WEBP, GIF</li>
      </ul>
     </div>
     <!--/right-->
-   </div>
+ </div>
    <!--/row-->
    <div class="d1-logo">
     <img width="70" height="75" alt="CAD APIs plugin for JasperReports" src="https://cms.admin.containerize.com/templates/aspose/img/products/cad/aspose_cad-for-jasperreports.svg"/>

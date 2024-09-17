@@ -76,8 +76,10 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
     <header><i class="fa fa-cubes"></i>Xamarin</header>
     <br/>
     <header><i class="fa fa-cubes"></i>Mono</header>
-	<br/>
+    <br/>
     <header><i class="fa fa-cubes"></i>UWP</header>
+    <br/>
+    <header><i class="fa fa-cubes"></i>MAUI</header>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
@@ -88,8 +90,10 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
     <header><i class="fa fa-tasks"></i>WPF</header>
     <br/>
     <header><i class="fa fa-tasks"></i>Unity</header>
-	<br/>
+    <br/>
     <header><i class="fa fa-tasks"></i>Windows Forms</header>
+    <br/>
+    <header><i class="fa fa-tasks"></i>HoloLens</header>
   </div>
   <!--/right-->
  </div>
@@ -104,40 +108,47 @@ description: Process and Convert CAD and BIM format files to PDF, WebP and other
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.CAD for .NET [supported file formats](https://docs.aspose.com/cad/net/supported-file-formats/)  are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.CAD for .NET [supported CAD and BIM file formats](https://docs.aspose.com/cad/net/supported-file-formats/)  are listed below." >}}
 
 <div class="diagram1 d2 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
    <header><i class="fa fa-long-arrow-down"></i>Input Only</header>
    <ul>
-    <li>DWG Release 11, 12, 13, 14</li>
-    <li>DWG 2000/2000i/2002</li>
-    <li>DWG 2004/2005/2006</li>
-    <li>DWG 2010/2011/2012</li>
-    <li>DWG 2013/2014/2015/2016</li>
-    <li>Bentley Systems MicroStation DesiGN File (DGN)</li>
+    <li>AutoCAD Drawing File (DWG) Releases 11, 12, 13, 14</li>
+    <li>AutoCAD Drawing File (DWG) 2000/2000i/2002</li>
+    <li>AutoCAD Drawing File (DWG) 2004/2005/2006</li>
+    <li>AutoCAD Drawing File (DWG) 2010/2011/2012</li>
+    <li>AutoCAD Drawing File (DWG) 2013/2014/2015/2016</li>
+    <li>Bentley Systems MicroStation Design File (DGN)</li>
     <li>Industry Foundation Classes (IFC)</li>
-    <li>STereoLithography (STL)</li>
-    <li> AutoCAD Drawing Template (DWT)</li>
+    <li>Stereolithography File (STL) - 3D model format used in 3D printing</li>
+    <li>AutoCAD Drawing Template (DWT)</li>
     <li>Initial Graphics Exchange Specification (IGES)</li>
-    <li>Plotter file (PLT)</li>
-    <li>Common File Format 2 (CF2)</li>
+    <li>Plotter File (PLT)</li>
+    <li>Common File Format 2 (CF2) - CAD format for die-cutting in packaging design</li>
     <li>Hewlett-Packard Graphics Language (HPGL)</li>
     <li>Printer Command Language (PCL)</li>
+    <li>3D Studio Mesh File (3DS)</li>
+    <li>Universal 3D File Format (U3D)</li>
+    <li>Computer Graphics Metafile (CGM)</li>
+    <li>COLLADA Digital Asset Exchange File (DAE)</li>
+    <li>Drawing Interchange Binary File (DXB)</li>
    </ul>
   </div>
   <!--/left-->
   <div class="d1-col d1-right">
    <header><i class="fa fa-refresh"> </i> Bi-directional</header>
    <ul>
-     <li>Autodesk Drawing Exchange File Format (DXF)</li>
-     <li>AutoCAD Drawing Database File (DWG) Release 2015 (coming soon)</li>
-     <li>Geometry Definition File Format (OBJ)</li>
+     <li>Autodesk Drawing Exchange Format (DXF)</li>
+     <li>AutoCAD Drawing Database File (DWG) Release 2015</li>
+     <li>Wavefront Object File (OBJ)</li>
      <li>Filmbox Interchange File (FBX)</li>
      <li>Design Web Format (DWF)</li>
-     <li>Design Web Format XPS formatted (DWFX)</li>
+     <li>Design Web Format XPS (DWFX)</li>
      <li>Scalable Vector Graphics (SVG)</li>
+     <li>Standard for the Exchange of Product Model Data (STEP/STP)</li>
+     <li>GL Transmission Format (GLB/GLTF) - 3D model file format</li>
    </ul>
    <header><i class="fa fa-mail-forward"></i>Output Only</header>
    <ul>
