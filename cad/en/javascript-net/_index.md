@@ -131,6 +131,8 @@ description: CAD and BIM drawings processing library to open and convert DXF, DW
     <li>AutoCAD Drawing File (DWG) 2004/2005/2006</li>
     <li>AutoCAD Drawing File (DWG) 2010/2011/2012</li>
     <li>AutoCAD Drawing File (DWG) 2013/2014/2015/2016</li>
+    <li>AutoCAD Drawing File (DWG) 2017/2018/2019/2020</li>
+    <li>AutoCAD Drawing File (DWG) 2011/2022/2023/2024</li>
     <li>Bentley Systems MicroStation Design File (DGN)</li>
     <li>Industry Foundation Classes (IFC)</li>
     <li>Stereolithography File (STL) - 3D model format used in 3D printing</li>

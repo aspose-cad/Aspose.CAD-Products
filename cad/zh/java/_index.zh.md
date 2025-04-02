@@ -140,6 +140,12 @@ description: AutoCAD 库，用于在 Java 应用程序中打开 DWG 和 DXF 绘�
      DWG 2013/2014/2015/2016
     </li>
     <li>
+     DWG 2017/2018/2019/2020
+    </li>
+    <li>
+     DWG 2021/2022/2023/2024
+    </li>
+    <li>
      AutoCAD DXF
     </li>
     <li>

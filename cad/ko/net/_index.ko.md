@@ -146,6 +146,12 @@ description: DWG DXF 도면 문서를 열고 PDF PNG GIF BMP JPEG 및 TIFF 형�
      DWG 2013/2014/2015/2016
     </li>
     <li>
+     DWG 2017/2018/2019/2020
+    </li>
+    <li>
+     DWG 2021/2022/2023/2024
+    </li>
+    <li>
      AutoCAD DXF
     </li>
     <li>

@@ -146,6 +146,12 @@ description: C# ASP.NET VB.NET Knihovna AutoCAD pro otevírání a převod výkr
      DWG 2013/2014/2015/2016
     </li>
     <li>
+     DWG 2017/2018/2019/2020
+    </li>
+    <li>
+     DWG 2021/2022/2023/2024
+    </li>
+    <li>
      AutoCAD DXF
     </li>
     <li>
